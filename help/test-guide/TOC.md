@@ -1,0 +1,29 @@
+---
+user-guide-title: Template title
+solution: Experience Cloud
+---
+
+# Template title {#test}
+
++ [Overview](toc-overview.md)
++ [Beta](beta.md)
++ [Collapsible content](collapsible-content.md)
++ [AEP Gitbook Test](gitbook.md)
++ [Bob test](BOB-TEST/newfile-1.md)
++ [Exl-id test blank value bad](exlid-test-blank.md)
++ [Exl-id test removed meta](exlid-test-none.md)
++ Temp section {#anchor-id}
+  + [New file](newfile.md)
+  + [AEM Bug](aembug.md)
+  + [AEM Learn Bug](aemlearnbug.md)
+  + [Data Workbench Bug](dwbbug.md)
+
+<!--
+
+
+Articles must be added to this TOC file in order to render.
+
+Use this list format to specify links to articles and section headings that expand and collapse in the left rail of the user guide.
+
+An article link CANNOT be used as a section heading.
+-->
