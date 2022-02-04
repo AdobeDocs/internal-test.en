@@ -12,6 +12,7 @@ solution: Experience Cloud
 + [Exl-id test blank value bad](exlid-test-blank.md)
 + [Exl-id test removed meta](exlid-test-none.md)
 + [Table render test](table-render-test.md)
++ [New file](newfile.md)
 + Temp section {#anchor-id}
   + [AEM Bug](aembug.md)
   + [AEM Learn Bug](aemlearnbug.md)
