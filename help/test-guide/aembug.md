@@ -14,8 +14,6 @@ exl-id: 3891150e-9972-4bbc-ad61-7f46a1f9bbb4
 
 # Developing Reports {#developing-reports}
 
-AEM provides a selection of [standard reports](/help/test-guide/newfile.md) most of which are based on a reporting framework.
-
 Using the framework you can either extend these standard reports, or develop your own, completely new, report(s). The reporting framework integrates tightly with existing CQ5 concepts and principles so that developers can use their existing knowledge of CQ5 as a springboard for developing reports.
 
 For the standard reports delivered with AEM:
