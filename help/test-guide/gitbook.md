@@ -14,11 +14,6 @@ Follow the directions below to include the SDK into your mobile application.
 >For iOS and Android projects, the recommended approach for integrating the SDK is to use supported dependency and package managers as listed for >each platform such as Maven and Cocoapods. SDKs are also available for download on [GitHub](https://github.com/Adobe-Marketing-Cloud/acp-sdks/).
 
 
->[!__BETA_TABS START]
-
->[!__BETA_TAB Android]
-
-
 ## Java / Kotlin
 
 >[!WARNING]
@@ -106,9 +101,6 @@ The necessary dependencies and initialization code can be copied from the dialog
 You should see a pop-up similar to the following image:
 
 ![](assets/obj-c.png)
-
->[!__BETA_TAB React Native]
-
 
 ## React Native
 

@@ -3,6 +3,7 @@ cloud: Experience Cloud
 solution: General
 git-repo: https://git.corp.adobe.com/AdobeDocs/authoring-guide-exl.en
 index: no
+internal: yes
 ---
 
 # Metadata for internal use
