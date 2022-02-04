@@ -11,6 +11,7 @@ solution: Experience Cloud
 + [AEP Gitbook Test](gitbook.md)
 + [Exl-id test blank value bad](exlid-test-blank.md)
 + [Exl-id test removed meta](exlid-test-none.md)
++ [Table render test](table-render-test.md)
 + Temp section {#anchor-id}
   + [AEM Bug](aembug.md)
   + [AEM Learn Bug](aemlearnbug.md)
