@@ -53,8 +53,6 @@ exl-id: 747ade98-26f9-40b8-80b0-354e516a6231
 
 ## CTA
 
-This is the [!__BETA_CTA CTA Test](https://www.adobe.com).  And  [!__BETA_CTA CTA Test](https://www.adobe.com)
-
 ```
 This is the [!__BETA_CTA CTA Test](https://www.adobe.com)
 ```

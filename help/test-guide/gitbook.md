@@ -179,5 +179,3 @@ Adobe Experience Platform Mobile SDK plugins for Xamarin require **MonoAndroid 9
 >[!NOTE]
 >
 > The Adobe Experience Platform Mobile SDK plugins for Xamarin are packages distributed via [nuget](https://www.nuget.org/packages). NuGet packages can be added to projects within a [Visual Studio](https://visualstudio.microsoft.com/downloads/) solution. The NuGet packages can also be generated locally via the included Makefile located in each of the Xamarin repositories.
-
->[!__BETA_TABS END]
