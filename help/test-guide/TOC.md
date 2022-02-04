@@ -9,7 +9,6 @@ solution: Experience Cloud
 + [Beta](beta.md)
 + [Collapsible content](collapsible-content.md)
 + [AEP Gitbook Test](gitbook.md)
-+ [Bob test](BOB-TEST/newfile-1.md)
 + [Exl-id test blank value bad](exlid-test-blank.md)
 + [Exl-id test removed meta](exlid-test-none.md)
 + Temp section {#anchor-id}
