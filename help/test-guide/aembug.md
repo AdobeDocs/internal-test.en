@@ -104,7 +104,7 @@ These are imposed to produce the (initial) result set; they include for example,
 
 
 
-The developer has to ensure that the query defined for a report returns a node set appropriate for that report. However, the node itself need not hold all the required information, this can also be derived from parent and/or child nodes. For example, the query used for the [User Report](/help/test-guide/newfile.md). However, most columns on this report do not take their data directly from these nodes, but from the child nodes `profile`.
+The developer has to ensure that the query defined for a report returns a node set appropriate for that report. However, the node itself need not hold all the required information, this can also be derived from parent and/or child nodes. For example, the query used for the [User Report](/help/test-guide/). However, most columns on this report do not take their data directly from these nodes, but from the child nodes `profile`.
 
 ### Processing Queue {#processing-queue}
 
@@ -361,7 +361,7 @@ N:charting
 
 Every report can have a configuration dialog, allowing the user to specify various parameters for the report. This dialog is accessible through the **Edit** button when the report page is open.
 
-This dialog is a standard CQ [dialog](/help/test-guide/newfile.md).
+This dialog is a standard CQ .
 
 An example dialog can look as follows:
 
@@ -640,7 +640,7 @@ N:definitions
 
 
 
- Determines whether the resolved value should be *internationalized* (i.e. using [CQ5's internationalization services](/help/test-guide/newfile.md).
+ Determines whether the resolved value should be *internationalized* (i.e. using .
 
 
 
@@ -928,7 +928,7 @@ N:defaults
 
 ### Events and Actions {#events-and-actions}
 
-Edit Configuration defines the necessary events for the listeners to detect and the actions to be applied after those events occurs. See the [introduction to component development](/help/test-guide/newfile.md) for background information.
+Edit Configuration defines the necessary events for the listeners to detect and the actions to be applied after those events occurs. See the for background information.
 
 The following values must be defined to ensure that all required actions are catered for:
 
@@ -1050,7 +1050,7 @@ Specifying designs for individual columns is not required. Available columns can
 
 ## Report Template {#report-template}
 
-Each report type must provide a template. These are standard [CQ Templates](/help/test-guide/newfile.md) and can be configured as such.
+Each report type must provide a template. These are standard  and can be configured as such.
 
 The template must:
 
@@ -1303,7 +1303,7 @@ An instance of your new report can now be created:
 1. Select **Reports** in the left-hand pane.
 1. Then **New...** from the toolbar. Define a **Title** and **Name**, select your new report type (the **OSGi Report Template**) from the list of templates, then click **Create**.
 1. Your new report instance will appear in the list. Double-click this to open.
-1. Drag a component (for this example, **Bundle** in the **OSGi Report** group) from the sidekick to create the first column and [start the report definition](/help/test-guide/newfile.md).
+1. Drag a component (for this example, **Bundle** in the **OSGi Report** group) from the sidekick to create the first column and .
 
    >[!NOTE]
    >
@@ -1321,7 +1321,7 @@ An instance of your new report can now be created:
 
 This section describes advanced configuration options for the OSGi services that implement the report framework.
 
-These can be viewed using the Configuration menu of the web console (available for example at `http://localhost:4502/system/console/configMgr`). When working with AEM there are several methods of managing the configuration settings for such services; see [Configuring OSGi](/help/test-guide/newfile.md) for more details and the recommended practices.
+These can be viewed using the Configuration menu of the web console (available for example at `http://localhost:4502/system/console/configMgr`). When working with AEM there are several methods of managing the configuration settings for such services; see  for more details and the recommended practices.
 
 ### Basic Service (Day CQ Reporting Configuration) {#basic-service-day-cq-reporting-configuration}
 
