@@ -61,27 +61,6 @@ This is the [!__BETA_CTA CTA Test](https://www.adobe.com)
 
 Foo
 
-## Accordion POC
-
->[!__BETA_ACCORDIAN Fluffer]
->Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
->eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
->montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque
->eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,
->fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,
->imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
->Integer **tincidunt**. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate
->eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,
->enim. Aliquam ante, dapibus in, viverra quis, feugiat a, tellus. Phaselus>viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam
->ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.
->Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
-
-
->[!__BETA_ACCORDIAN Poof!]
->Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
->eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
->montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque
-
 
 ## Tabs
 
@@ -89,17 +68,11 @@ Anim aute ex elit qui duis qui et pariatur cillum nisi Lorem fugiat amet. Aliqui
 
 ### Hello World in different languages
 
->[!__BETA_TABS START]
-
->[!__BETA_TAB Javascript]
-
 Simple one-liner:
 
 ```javascript
 console.log('Hello World!')
 ```
-
->[!__BETA_TAB Python]
 
 >[!NOTE]
 >Easy Peasy!
@@ -107,5 +80,3 @@ console.log('Hello World!')
 ```python{line-numbers    wrap }
 print('Hello World\n')
 ```
-
->[!__BETA_TABS END]
