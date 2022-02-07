@@ -56,7 +56,6 @@ This section lists features and capabilities that have been removed from [!DNL E
 
 This section lists bundle versions that are unsupported in [!DNL AEM as a Cloud Service].
 
-<table>
 <table style="table-layout:auto">
 <thead>
   <tr>
