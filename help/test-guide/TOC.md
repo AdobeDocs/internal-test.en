@@ -6,6 +6,7 @@ solution: Experience Cloud
 # Template title {#test}
 
 + [Overview](toc-overview.md)
++ [Snippets](snippets.md)
 + [Beta](beta.md)
 + [Collapsible content](collapsible-content.md)
 + [AEP Gitbook Test](gitbook.md)
