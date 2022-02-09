@@ -3,7 +3,7 @@ title: Bob's snippets test
 description: Dunno what to say {{__meta_homepage}}
 homepage: /help/test-guide/toc-overview.md
 ---
-# {{__meta_title}}
+# Bob's snippets test
 
 ## Include example
 
