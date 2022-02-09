@@ -14,8 +14,8 @@ The home page is [here]({{__meta_homepage}})
 
 This is for beta {{__meta_solution}} users.
 
-+ one
-+ two
+* one
+* two
 
 {{audience}}
 
