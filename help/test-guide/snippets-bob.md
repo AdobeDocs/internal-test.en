@@ -35,9 +35,9 @@ These link to snippets.md file in root repo.
 
 {{audience}}
 
-`{{#obsidion}}`
+`{{obsidion}}`
 
-{{#obsidion}}
+{{obsidion}}
 
 ## Snippets in comments and code blocks
 
