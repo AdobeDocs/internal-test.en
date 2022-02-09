@@ -7,6 +7,7 @@ solution: Experience Cloud
 
 + [Overview](toc-overview.md)
 + [Snippets](snippets.md)
++ [Bob's Snippets](snippets-bob.md)
 + [Beta](beta.md)
 + [Collapsible content](collapsible-content.md)
 + [AEP Gitbook Test](gitbook.md)
