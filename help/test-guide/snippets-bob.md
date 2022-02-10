@@ -2,6 +2,7 @@
 title: Bob's snippets test
 description: Dunno what to say {{__meta_homepage}}
 homepage: /help/test-guide/toc-overview.md
+color: Purple
 ---
 # {{__meta_title}}
 
@@ -42,6 +43,10 @@ These link to snippets.md file in root repo.
 `{{image}}`
 
 {{image}}
+
+`{{color}}`
+
+{{color}}
 
 ## Snippets in comments and code blocks
 
