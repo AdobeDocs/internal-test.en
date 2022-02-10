@@ -10,6 +10,16 @@ This is audience text
 >[!NOTE]
 >This is a note!
 
+## Image Test {#image}
+
+Image from test guide:
+
+![Android](/help/test-guide/assets/android.png)
+
+Image from backup guide:
+
+![bullets](/help/backup-guide/assets/bullet-lists.png)
+
 ## Star Wars {#long}
 
 A1 long time ago... 
@@ -31,6 +41,10 @@ A2 long time ago...
 |Parrot | Fern | Dirt clod |
 
 ![alt text](/help/test-guide/assets/android.png)
+
+## Snippet with metadata grabbed from source file {#color}
+
+The color specified in the metadata of the file that references this snippet is {{__meta_color}}.
 
 ### foobar
 

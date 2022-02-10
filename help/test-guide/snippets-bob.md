@@ -39,6 +39,10 @@ These link to snippets.md file in root repo.
 
 {{obsidion}}
 
+`{{image}}`
+
+{{image}}
+
 ## Snippets in comments and code blocks
 
 <!--
