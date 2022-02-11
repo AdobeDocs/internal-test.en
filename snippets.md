@@ -25,13 +25,19 @@ Image from backup guide:
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="snippets.md">
+      <img alt="snippets" src="assets/package.png">
+    </a>
     <div>
-    <a href="/help/test-guide/snippets.md"><strong>Matt's Snippets</strong></a>
+    <a href="snippets.md"><strong>Matt's Snippets</strong></a>
     </div>
     <em>Not a lead writer? Learn the easiest ways to make contributions.</em>
     <br>
   </td>
   <td>
+    <a href="snippets-bob.md">
+      <img alt="snippets by bob" src="assets/package.png">
+    </a>
     <div>
     <a href="/help/test-guide/snippets-bob.md"><strong>Bob's Snippets</strong></a>
     </div>
@@ -39,6 +45,9 @@ Image from backup guide:
     <br>
   </td>
   <td>
+    <a href="snippets-bob.md">
+      <img alt="snippets by bob" src="/help/backup-guide/assets/bullet-lists.png">
+    </a>
     <div>
     <a href="/help/backup-guide/backup-snippets.md"><strong>Backup Snippets</strong></a>
     </div>
