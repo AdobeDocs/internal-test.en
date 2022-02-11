@@ -10,6 +10,8 @@ color: Purple
 
 `{{$include /help/test-guide/bob-includes.md}}`
 
+Above rendered:
+
 {{$include /help/test-guide/bob-includes.md}}
 
 ## Snippets
