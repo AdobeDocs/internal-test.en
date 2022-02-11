@@ -50,6 +50,10 @@ These link to snippets.md file in root repo.
 
 {{color}}
 
+`{{bigblock}}`
+
+{{bigblock}}
+
 ## Snippets in comments and code blocks
 
 <!--
