@@ -1,7 +1,7 @@
 ---
 title: Way cool title as a snippet
 description: Dunno what to say {{__meta_homepage}}
-homepage: /help/main-guide/home.md
+homepage: /help/test-guide/toc-overview.md
 ---
 # {{__meta_title}}
 
