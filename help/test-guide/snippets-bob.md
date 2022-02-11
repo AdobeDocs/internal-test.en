@@ -20,9 +20,13 @@ Above rendered:
 
 `The home page is [here]({{__meta_homepage}})`
 
+Above rendered:
+
 The home page is [here]({{__meta_homepage}})
 
 `{{__meta_description}}`
+
+Above rendered:
 
 {{__meta_description}}
 
@@ -32,25 +36,37 @@ These link to snippets.md file in root repo.
 
 `{{long}}`
 
+Above rendered:
+
 {{long}}
 
 `{{audience}}`
+
+Above rendered:
 
 {{audience}}
 
 `{{obsidion}}`
 
+Above rendered:
+
 {{obsidion}}
 
 `{{image}}`
+
+Above rendered:
 
 {{image}}
 
 `{{color}}`
 
+Above rendered:
+
 {{color}}
 
 `{{bigblock}}`
+
+Above rendered:
 
 {{bigblock}}
 
