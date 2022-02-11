@@ -70,6 +70,12 @@ Above rendered:
 
 {{bigblock}}
 
+`{{html}}`
+
+Above rendered:
+
+{{html}}
+
 ## Snippets in comments and code blocks
 
 <!--

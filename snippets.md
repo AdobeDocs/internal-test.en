@@ -20,6 +20,34 @@ Image from backup guide:
 
 ![bullets](/help/backup-guide/assets/bullet-lists.png)
 
+## HTML table {#html}
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <div>
+    <a href="/help/test-guide/snippets.md"><strong>Matt's Snippets</strong></a>
+    </div>
+    <em>Not a lead writer? Learn the easiest ways to make contributions.</em>
+    <br>
+  </td>
+  <td>
+    <div>
+    <a href="/help/test-guide/snippets-bob.md"><strong>Bob's Snippets</strong></a>
+    </div>
+    <em>Learn to resolve validation errors.</em>
+    <br>
+  </td>
+  <td>
+    <div>
+    <a href="/help/backup-guide/backup-snippets.md"><strong>Backup Snippets</strong></a>
+    </div>
+    <em>Main editing workflow for lead writers.</em>
+    <br>
+  </td>
+</tr>
+</table>
+
 ## Star Wars {#long}
 
 A1 long time ago... 
