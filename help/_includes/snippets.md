@@ -12,13 +12,17 @@ This is audience text
 
 ## Image Test {#image}
 
-Image from test guide:
+Root link to image:
 
-![Android](/help/test-guide/assets/android.png)
+![Android](/help/_includes/assets/android.png)
 
-Image from backup guide:
+Relative link to image:
 
-![bullets](/help/backup-guide/assets/bullet-lists.png)
+![bullets](assets/bullet-lists.png)
+
+Root link to unreferenced image outside `_includes`:
+
+![bad link](/help/backup-guide/assets/bad-1.png)
 
 ## HTML table {#html}
 
@@ -46,7 +50,7 @@ Image from backup guide:
   </td>
   <td>
     <a href="snippets-bob.md">
-      <img alt="snippets by bob" src="/help/backup-guide/assets/bullet-lists.png">
+      <img alt="snippets by bob" src="/help/_includes/assets/bullet-lists.png">
     </a>
     <div>
     <a href="/help/backup-guide/backup-snippets.md"><strong>Backup Snippets</strong></a>

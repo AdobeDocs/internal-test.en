@@ -8,11 +8,11 @@ color: Purple
 
 ## Include example
 
-`{{$include /help/test-guide/bob-includes.md}}`
+`{{$include /help/_includes/bob-includes.md}}`
 
 Above rendered:
 
-{{$include /help/test-guide/bob-includes.md}}
+{{$include /help/_includes/bob-includes.md}}
 
 ## Snippets
 
