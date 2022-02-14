@@ -18,4 +18,8 @@ Later tests
 * Check relative link to image in includes file with different location in shared file.
 * Check bad syntax like different bullet syntax in source.
 
-FINAL LINE
+FINAL LINE (except for 5 blank lines after)
+
+
+
+
