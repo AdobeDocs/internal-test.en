@@ -49,7 +49,7 @@ Root link to unreferenced image outside `_includes`:
     <br>
   </td>
   <td>
-    <a href="snippets-bob.md">
+    <a href="/help/test-guide/snippets-bob.md">
       <img alt="snippets by bob" src="assets/package.png">
     </a>
     <div>
@@ -59,7 +59,7 @@ Root link to unreferenced image outside `_includes`:
     <br>
   </td>
   <td>
-    <a href="snippets-bob.md">
+    <a href="/help/test-guide/snippets-bob.md">
       <img alt="snippets by bob" src="/help/_includes/assets/bullet-lists.png">
     </a>
     <div>
