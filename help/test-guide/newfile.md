@@ -7,6 +7,10 @@ exl-id: a9476bf9-2b3a-4d5c-ab1c-cd5ffc71a43b
 
 # New fiile
 
+## Testing deep link
+
+[Deep link](newfile.md#command-line)
+
 testing webook
 
 | A | B | C |
@@ -19,6 +23,8 @@ testing webook
 ```
 Don't use <https://> for links..
 ```
+
+## Command line {#command-line}
 
 <table>
  <tbody>
