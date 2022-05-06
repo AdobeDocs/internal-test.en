@@ -1,6 +1,6 @@
 ---
 title: Way cool title as a snippet
-description: [!DNL Dunno] what to say {{__meta_homepage}}
+description: "[!DNL Dunno] what to say {{__meta_homepage}}"
 homepage: /help/test-guide/toc-overview.md
 ---
 # {{__meta_title}}
