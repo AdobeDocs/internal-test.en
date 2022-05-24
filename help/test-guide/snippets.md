@@ -9,6 +9,12 @@ homepage: /help/test-guide/toc-overview.md
 {{$include /help/test-guide/toc-overview.md}}
 -->
 
+## New test
+
+<ol><li>Use the `{{name}}` varible.</li></ol> 
+
+## Other tests
+
 Go [here]({{__meta_git-repo}}) to look at the source code.
 
 The home page is [here]({{__meta_homepage}})
