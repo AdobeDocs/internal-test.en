@@ -9,7 +9,9 @@ exl-id: a9476bf9-2b3a-4d5c-ab1c-cd5ffc71a43b
 
 ## Testing deep link
 
-[Deep link](newfile.md#command-line)
+[Deep link explicit anchor](newfile.md#command-line)
+
+[Deep link derived anchor](newfile.md#deep-link-from-bob)
 
 testing webook
 
@@ -173,3 +175,5 @@ Don't use <https://> for links..
 | Text |Text |
 
 Foo
+
+## Deep link from Bob
