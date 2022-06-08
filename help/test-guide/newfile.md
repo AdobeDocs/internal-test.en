@@ -5,7 +5,7 @@ cloud: nimbus
 exl-id: a9476bf9-2b3a-4d5c-ab1c-cd5ffc71a43b
 ---
 
-# New fiile
+# New file
 
 ## Testing deep link
 
