@@ -7,6 +7,15 @@ exl-id: a9476bf9-2b3a-4d5c-ab1c-cd5ffc71a43b
 
 # New file
 
+## Note in table test
+
+| A | B | C |
+| ---  | --- | --- |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 |
+| 1 | 2 | 3<br> >[!NOTE]<br>><br>><This is a note>. |
+
+
 ## Testing deep link
 
 [Deep link explicit anchor](newfile.md#command-line)
