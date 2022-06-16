@@ -16,6 +16,7 @@ solution: Experience Cloud
 + [Exl-id test removed meta](exlid-test-none.md)
 + [Table render test](table-render-test.md)
 + [New file](newfile.md)
++ [UGP 6547](ugp-6547.md)
 + Temp section {#anchor-id}
   + [AEM Bug](aembug.md)
   + [AEM Learn Bug](aemlearnbug.md)
