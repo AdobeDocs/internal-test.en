@@ -6,6 +6,7 @@ solution: Experience Cloud
 # Template title {#test}
 
 + [Overview](toc-overview.md)
++ [Highlight](highlight.md)
 + [Workfront render problem](workfront-render-problem.md)
 + [Note test for Keith](note-test.md)
 + [Snippets](snippets.md)
