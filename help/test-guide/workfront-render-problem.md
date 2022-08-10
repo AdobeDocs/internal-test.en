@@ -100,7 +100,7 @@ To change the displayed column header, add&nbsp;the following code to your colum
 
 Dates can be configured to display in a variety of formats.
 
-For more information, see [Format dates in text mode reports](../../../reports-and-dashboards/reports/text-mode/format-dates-in-text-mode-reports.md).
+For more information, see Format dates in text mode reports.
 
 <!--
 <div data-mc-conditions="QuicksilverOrClassic.Draft mode"> 
@@ -163,7 +163,7 @@ For more information, see [Format dates in text mode reports](../../../reports-a
 
 You can format numeric values to display information that best suits your reporting needs.
 
-For more information, see [Format numbers, currency and percentage values in text mode reports](../../../reports-and-dashboards/reports/text-mode/format-numbers-in-text-mode-reports.md).
+For more information, see Format numbers, currency and percentage values in text mode reports.
 
 <!--
 <div data-mc-conditions="QuicksilverOrClassic.Draft mode">
@@ -453,7 +453,7 @@ For more information about how to format the
 valueexpression line
 ```
 
-, see [Text mode syntax overview](../../../reports-and-dashboards/reports/text-mode/text-mode-syntax-overview.md).
+, see Text mode syntax overview.
 
 You cannot conditionally format a column which contains a 
 
@@ -464,7 +464,7 @@ valueexpression
 line of code.  
 Instead, you can add a Calculated Custom Field to a Custom Form and associate it with the objects you are displaying in the report. Then, you can conditionally format the columns displaying this field.
 
-For more information about Calculated Custom Fields, see [Add calculated data to a custom form](../../../administration-and-setup/customize-workfront/create-manage-custom-forms/add-calculated-data-to-custom-form.md).
+For more information about Calculated Custom Fields, see Add calculated data to a custom form.
 
 ## Add an aggregator value in a Text Mode column
 
