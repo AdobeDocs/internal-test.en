@@ -286,9 +286,11 @@ For example, if we wanted to show the Company Name in green text on a project re
 >  qualifier, you can access items by their name.
 >
 
+<!--
 ![](assets/screen-shot-2013-08-15-at-2.53.51-pm-350x199.png)
 
 ![](assets/screen-shot-2013-08-15-at-2.54.08-pm-350x185.png)
+-->
 
 Whether Text Color, Alignment, Font Style, or Background Color are applied to a text mode, the same statement (shown above) is used.
 
@@ -347,8 +349,6 @@ For example, using the earlier statement to include Company Name in green bolded
 >
 >When including more than one conditional formatting expression, it is necessary to numerically identify each expression in the statement. Notice that expression 0 and expression 1 have been identified.
 
-![](assets/screen-shot-2013-08-15-at-3.18.45-pm-350x198.png)
-
 #### Apply text {#apply-text}
 
 If you want to replace the default values that populate in a column with a value of your choosing, it is possible when applying text&nbsp;to the column.
@@ -371,10 +371,6 @@ For example, on a project report, set the Planned Start Date column value to not
 >truetext
 >```>
 >to a value, rather than leaving it blank.
-
-![](assets/screen-shot-2013-08-15-at-3.22.02-pm-350x196.png)
-
-![](assets/screen-shot-2013-08-15-at-3.22.16-pm-350x151.png)
 
 #### Apply row formats {#apply-row-formats}
 
@@ -399,12 +395,9 @@ Similarly to formatting with text, images can be used to display information in 
 >```>
 >format, but rather a unique image format.
 
-![](assets/screen-shot-2013-08-15-at-3.35.08-pm-350x199.png)
-
-![](assets/screen-shot-2013-08-15-at-3.35.22-pm-1-350x167.png)
-
 To use the images available, apply the following code and values:
 
+<!--
 | **Icon** |**Line: image.case.0.comparison.truetext=** |
 |---|---|
 | Frown Face&nbsp; ![](assets/face-sad.png)|=`/interface/images/v4_redux/icons/casebuilder/emoticon_frown.gif` |
@@ -425,6 +418,7 @@ To use the images available, apply the following code and values:
 | Yellow Circle&nbsp; ![](assets/dot-yellow.png)|=`/interface/images/v4_redux/icons/casebuilder/light_yellow.gif` |
 
 {style="table-layout:auto"}
+-->
 
 ### Conditionally format a 
 
@@ -478,7 +472,7 @@ Consider the following when adding aggregators to a column in Text Mode:
    * Date
    * Currency
 
-* You can add an aggregator to a column that displays a calculation. The aggregated value displays in the grouping of the view or report. For more information, see [Grouping: display the result of aggregating multiple calculated values in a grouping](../../../reports-and-dashboards/reports/custom-view-filter-grouping-samples/grouping-calculation-between-two-fields-aggregated-in-grouping.md).
+* You can add an aggregator to a column that displays a calculation. The aggregated value displays in the grouping of the view or report. For more information, see Grouping: display the result of aggregating multiple calculated values in a grouping.
 * The lines of code for the definition of the column must be identical to the lines of code introducing the aggregator and preceded by "aggregator."&nbsp;For example, if you have a column where you display Planned Hours on a project, the text mode of the main lines of the column is:
   <pre>valuefield=workRequired<br>valueformat=compound</pre>When you want to aggregate the value of all the lines in the grouping of the view, we can add the following code to add the aggregator values:
 
