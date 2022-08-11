@@ -65,9 +65,6 @@ Highlighting ends above this line
 
 ## Tables
 
-### Simple table
-
-
 <table style="table-layout:auto">
 <tbody> 
   <tr> 
@@ -102,3 +99,11 @@ Highlighting ends above this line
   </tr> 
   </tbody> 
 </table>
+
+## Highlighting in notes
+
+>[!CAUTION]
+>
+><div class="preview">**This object is hot.**
+>
+>Very hot.</div>
