@@ -16,14 +16,14 @@ exl-id: 3891150e-9972-4bbc-ad61-7f46a1f9bbb4
 
 Hi Matt!
 
-<div id="dashboard" class="is-hidden">
+<div id="dashboard" class="">
   <div class="columns is-marginless has-background-white has-border-bottom-light-grey">
     <div class="column is-10 is-marginless-mobile is-margin-left-big-big-big is-paddingless">
       <ul class="tabs">
-        <li class="is-hidden is-margin-left-small is-padded-right-big" data-tab="welcome"><a class="is-padded-left-0 is-padded-right-0" href="#dashboard/welcome">My Profile</a></li>
-        <li class="is-hidden" data-tab="learning"><a href="#dashboard/learning">Learning</a></li>
-        <li class="is-hidden is-margin-left-small is-padded-right-big" data-tab="profile" data-autohide="true"><a class="is-padded-left-0 is-padded-right-0" href="#dashboard/profile">My Profile</a></li>
-        <li class="is-hidden is-padded-right-big" data-tab="awards" data-autohide="true">
+        <li class=" is-margin-left-small is-padded-right-big" data-tab="welcome"><a class="is-padded-left-0 is-padded-right-0" href="#dashboard/welcome">My Profile</a></li>
+        <li class="" data-tab="learning"><a href="#dashboard/learning">Learning</a></li>
+        <li class=" is-margin-left-small is-padded-right-big" data-tab="profile" data-autohide="true"><a class="is-padded-left-0 is-padded-right-0" href="#dashboard/profile">My Profile</a></li>
+        <li class=" is-padded-right-big" data-tab="awards" data-autohide="true">
           <span class="u-tooltip-showOnHover">
             <a class="is-padded-left-0 is-padded-right-0" href="#dashboard/awards">My Awards</a>
             <div class="spectrum-Tooltip spectrum-Tooltip--top spectrum-Tooltip--info">
@@ -32,7 +32,7 @@ Hi Matt!
             </div>
           </span>
         </li>
-        <li class="is-hidden" data-tab="bookmarks" data-autohide="true">
+        <li class="" data-tab="bookmarks" data-autohide="true">
           <span class="u-tooltip-showOnHover">
             <a class="is-padded-left-0 is-padded-right-0 is-padded-right-0" href="#dashboard/bookmarks">My Bookmarks</a>
             <div class="spectrum-Tooltip spectrum-Tooltip--top spectrum-Tooltip--info">
@@ -44,11 +44,11 @@ Hi Matt!
       </ul>
     </div>
   </div>
-  <div id="welcome" class="is-hidden"></div>
-  <div id="learning" class="is-hidden"></div>
-  <div id="profile" class="is-hidden"></div>
-  <div id="awards" class="is-hidden"></div>
-  <div id="bookmarks" class="is-hidden"></div>
+  <div id="welcome" class=""></div>
+  <div id="learning" class=""></div>
+  <div id="profile" class=""></div>
+  <div id="awards" class=""></div>
+  <div id="bookmarks" class=""></div>
 </div>
 
 
