@@ -45,11 +45,11 @@ Hi Matt!
       </ul>
     </div>
   </div>
-  <div id="welcome" class=""></div>
-  <div id="learning" class=""></div>
-  <div id="profile" class=""></div>
-  <div id="awards" class=""></div>
-  <div id="bookmarks" class=""></div>
+  <div id="welcome" class="">welcome</div>
+  <div id="learning" class="is-hidden">learning</div>
+  <div id="profile" class="is-hidden">profile</div>
+  <div id="awards" class="is-hidden">awards</div>
+  <div id="bookmarks" class="is-hidden">bookmarks</div>
 </div>
 
 
