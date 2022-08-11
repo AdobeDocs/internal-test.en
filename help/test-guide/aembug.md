@@ -16,6 +16,32 @@ exl-id: 3891150e-9972-4bbc-ad61-7f46a1f9bbb4
 
 Hi Matt!
 
+<div class="column is-10 is-marginless-mobile is-margin-left-big-big-big is-paddingless">
+    <ul class="tabs">
+    <li class="is-hidden is-margin-left-small is-padded-right-big" data-tab="welcome"><a class="is-padded-left-0 is-padded-right-0" href="#dashboard/welcome">My Profile</a></li>
+    <li class="is-hidden" data-tab="learning"><a href="#dashboard/learning">Learning</a></li>
+    <li class="is-hidden is-margin-left-small is-padded-right-big" data-tab="profile" data-autohide="true"><a class="is-padded-left-0 is-padded-right-0" href="#dashboard/profile">My Profile</a></li>
+    <li class="is-hidden is-padded-right-big" data-tab="awards" data-autohide="true">
+        <span class="u-tooltip-showOnHover">
+        <a class="is-padded-left-0 is-padded-right-0" href="#dashboard/awards">My Awards</a>
+        <div class="spectrum-Tooltip spectrum-Tooltip--top spectrum-Tooltip--info">
+            <span class="spectrum-Tooltip-label">View your awards after completing your profile.</span>
+            <span class="spectrum-Tooltip-tip"></span>
+        </div>
+        </span>
+    </li>
+    <li class="is-hidden" data-tab="bookmarks" data-autohide="true">
+        <span class="u-tooltip-showOnHover">
+        <a class="is-padded-left-0 is-padded-right-0 is-padded-right-0" href="#dashboard/bookmarks">My Bookmarks</a>
+        <div class="spectrum-Tooltip spectrum-Tooltip--top spectrum-Tooltip--info">
+            <span class="spectrum-Tooltip-label">View your bookmarks after completing your profile.</span>
+            <span class="spectrum-Tooltip-tip"></span>
+        </div>
+        </span>
+    </li>
+    </ul>
+</div>
+
 
 Using the framework you can either extend these standard reports, or develop your own, completely new, report(s). The reporting framework integrates tightly with existing CQ5 concepts and principles so that developers can use their existing knowledge of CQ5 as a springboard for developing reports.
 
