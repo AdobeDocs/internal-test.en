@@ -21,7 +21,7 @@ Hi Matt!
     <div class="column is-10 is-marginless-mobile is-margin-left-big-big-big is-paddingless">
       <ul class="tabs">
         <li class=" is-margin-left-small is-padded-right-big" data-tab="welcome"><a class="is-padded-left-0 is-padded-right-0" href="#dashboard/welcome">My Profile</a></li>
-        <li class="" data-tab="learning"><a href="#dashboard/learning">Learning</a></li>
+        <li class="" data-tab="learning"><a href="#dashboard/learning">Learning</a><div><span>Goodbye</span></div></li>
         <li class=" is-margin-left-small is-padded-right-big" data-tab="profile" data-autohide="true"><a class="is-padded-left-0 is-padded-right-0" href="#dashboard/profile">My Profile</a></li>
         <li class=" is-padded-right-big" data-tab="awards" data-autohide="true">
           <span class="u-tooltip-showOnHover">
@@ -29,6 +29,7 @@ Hi Matt!
             <div class="spectrum-Tooltip spectrum-Tooltip--top spectrum-Tooltip--info">
               <span class="spectrum-Tooltip-label">View your awards after completing your profile.</span>
               <span class="spectrum-Tooltip-tip"></span>
+              Goodbye
             </div>
           </span>
         </li>
