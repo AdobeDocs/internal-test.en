@@ -18,6 +18,10 @@ Later tests
 * Check relative link to image in includes file with different location in shared file.
 * Check bad syntax like different bullet syntax in source.
 
+NEW Includes file (test)
+
+{{$include /help/_includes/second-includes.md}}
+
 FINAL LINE (except for 5 blank lines after)
 
 
