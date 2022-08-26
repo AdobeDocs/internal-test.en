@@ -1,11 +1,6 @@
 ---
 title: Create Content Fragment Models - Advanced Concepts of AEM Headless - GraphQL
 description: In this chapter of Advanced concepts of Adobe Experience Manager (AEM) Headless, learn how to edit a Content Fragment Model by adding tab placeholders, date and time, JSON objects, fragment references, and content references.
-version: Cloud Service
-topic: Headless, Content Management
-role: Developer
-level: Intermediate
-exl-id: 50a3d4c3-69ce-4c3c-9e55-dbde588e359d
 ---
 # Create Content Fragment Models
 
