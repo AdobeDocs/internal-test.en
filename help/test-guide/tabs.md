@@ -10,6 +10,8 @@ description: Testing the new tabs feature on dev
 
 {class="tabs"}
 
+<!--
+
 <section id="something">
     markdown here
 </section>
@@ -21,3 +23,5 @@ description: Testing the new tabs feature on dev
 <section id="tiger-blood">
     charly sheen was here.
 </section>
+
+-->
