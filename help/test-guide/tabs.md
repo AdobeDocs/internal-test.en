@@ -4,10 +4,13 @@ description: Testing the new tabs feature on dev
 ---
 # Tabs test
 
--   [Something](#something){class="is-active"}
--   [Other](#other)
--   [Tiger Blood](#tiger-blood)
-{class="tabs is-medium is-centered"}
+<div class="tabs is-medium is-centered">
+
+- [Something](#something){class="is-active"}
+- [Other](#other)
+- [Tiger Blood](#tiger-blood)
+
+</div>
 
 <div id="something">
 
@@ -44,4 +47,5 @@ In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vit
 Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laoreet molestie tellus vel faucibus. Phasellus tortor dui, suscipit ut felis vitae, aliquam vehicula turpis. Vivamus sed dui malesuada, elementum nulla id, egestas arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
 In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vitae eros mattis scelerisque. Vestibulum ullamcorper augue quam, ut auctor risus consectetur consectetur. Curabitur quis eros est. Aliquam erat volutpat. Quisque imperdiet libero ac nibh tristique dignissim. Nam gravida viverra lacus, eu posuere risus efficitur ac.
+
 </div>
