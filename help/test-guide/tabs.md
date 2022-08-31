@@ -10,8 +10,6 @@ description: Testing the new tabs feature on dev
 - [Other](#other)
 - [Tiger Blood](#tiger-blood)
 
-</div>
-
 <div id="something">
 
 ## Something
@@ -49,3 +47,6 @@ Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laor
 In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vitae eros mattis scelerisque. Vestibulum ullamcorper augue quam, ut auctor risus consectetur consectetur. Curabitur quis eros est. Aliquam erat volutpat. Quisque imperdiet libero ac nibh tristique dignissim. Nam gravida viverra lacus, eu posuere risus efficitur ac.
 
 </div>
+    
+</div>
+
