@@ -12,7 +12,7 @@ description: Testing the new tabs feature on dev
 
 </div>
 
-<div id="something">
+<div id="something" class="tabs-content">
 
 ## Something
 
@@ -22,7 +22,7 @@ Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laor
 
 </div>
 
-<div id="other">
+<div id="other" class="tabs-content">
 
 ## Other
 
@@ -38,7 +38,7 @@ Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laor
 
 </div>
 
-<div id="tiger-blood">
+<div id="tiger-blood" class="tabs-content">
 
 ## Tiger Blood
 
