@@ -1,5 +1,5 @@
 ---
-title: "Registry error: Unable to read value of HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows in Client Console"
+title: "This is a great title."
 seo-title: Developing Reports
 description: AEM provides a selection of standard reports based on a reporting framework
 seo-description: AEM provides a selection of standard reports based on a reporting framework
