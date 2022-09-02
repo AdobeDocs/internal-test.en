@@ -7,6 +7,7 @@ solution: Experience Cloud
 
 + [Overview](toc-overview.md)
 + [Tab test](tabs.md)
++ [MD Tabs](mdtabs.md)
 + [Highlight](highlight.md)
 + [Workfront render problem](workfront-render-problem.md)
 + [Note test for Keith](note-test.md)
