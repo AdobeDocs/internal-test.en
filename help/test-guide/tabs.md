@@ -9,7 +9,7 @@ description: Testing the new tabs feature on dev
 - [Something](#something){class="is-active"}
 - [Other](#other)
 - [Tiger Blood](#tiger-blood)
-
+    
 </div>
 
 <div id="something" class="tabs-content">
