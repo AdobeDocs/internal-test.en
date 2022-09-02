@@ -13,7 +13,8 @@ description: Testing the new tabs feature on dev
     
 </div>
 
-<div id="tabs-something" class="tabs-content">
+<div class="tabs-content">
+<div id="tabs-something">
 
 ## Something
 
@@ -23,7 +24,7 @@ Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laor
 
 </div>
 
-<div id="tabs-other" class="tabs-content">
+<div id="tabs-other">
 
 ## Other
 
@@ -39,7 +40,7 @@ Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laor
 
 </div>
 
-<div id="tabs-tiger-blood" class="tabs-content">
+<div id="tabs-tiger-blood">
 
 ## Tiger Blood
 
@@ -49,5 +50,6 @@ Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laor
 
 In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vitae eros mattis scelerisque. Vestibulum ullamcorper augue quam, ut auctor risus consectetur consectetur. Curabitur quis eros est. Aliquam erat volutpat. Quisque imperdiet libero ac nibh tristique dignissim. Nam gravida viverra lacus, eu posuere risus efficitur ac.
 
+</div>
 </div>
 </div>
