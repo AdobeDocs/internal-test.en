@@ -8,17 +8,17 @@ description: Testing the new tabs feature on dev
 
 <div class="tabs is-medium is-centered">
 
-- [Something](#tabs-something){class="is-active"}
-- [Other](#tabs-other)
-- [Tiger Blood](#tabs-tiger-blood)
+- [Something](#something){class="is-active"}
+- [Other](#other)
+- [Tiger Blood](#tiger-blood)
     
 </div>
 
 <div class="tabs-content">
 
-<div id="tabs-something">
+<div id="something">
 
-## Something
+## Something{#title-something}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vitae eros mattis scelerisque. Vestibulum ullamcorper augue quam, ut auctor risus consectetur consectetur. Curabitur quis eros est. Aliquam erat volutpat. Quisque imperdiet libero ac nibh tristique dignissim. Nam gravida viverra lacus, eu posuere risus efficitur ac.
 
@@ -26,9 +26,9 @@ Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laor
 
 </div>
 
-<div id="tabs-other">
+<div id="other">
 
-## Other
+**Other**
 
 For any markup that is not covered by Markdown's syntax, you simply use HTML itself. There's no need to preface it or delimit it to indicate that you're switching from Markdown to HTML; you just use the tags.
 
@@ -42,9 +42,58 @@ Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laor
 
 </div>
 
-<div id="tabs-tiger-blood">
+<div id="tiger-blood">
 
-## Tiger Blood
+## Tiger Blood{#title-tiger-blood}
+
+In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vitae eros mattis scelerisque. Vestibulum ullamcorper augue quam, ut auctor risus consectetur consectetur. Curabitur quis eros est. Aliquam erat volutpat. Quisque imperdiet libero ac nibh tristique dignissim. Nam gravida viverra lacus, eu posuere risus efficitur ac.
+
+Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laoreet molestie tellus vel faucibus. Phasellus tortor dui, suscipit ut felis vitae, aliquam vehicula turpis. Vivamus sed dui malesuada, elementum nulla id, egestas arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+
+In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vitae eros mattis scelerisque. Vestibulum ullamcorper augue quam, ut auctor risus consectetur consectetur. Curabitur quis eros est. Aliquam erat volutpat. Quisque imperdiet libero ac nibh tristique dignissim. Nam gravida viverra lacus, eu posuere risus efficitur ac.
+
+</div>
+
+</div>
+
+</div>
+
+## ANOTHER TEST
+
+<div class="tabs-wrapper">
+
+<div class="tabs is-small">
+
+- [One](#One)
+- [Two](#Two){class="is-active"}
+    
+</div>
+
+<div class="tabs-content">
+
+<div id="One">
+
+## One{#title-one}
+
+## Code
+
+    ```js
+        /* eslint-disable no-undef */
+        export const config = {
+        ctx: document.querySelector('div[data-id="body"] div.tabs-wrapper'),
+        active: document.querySelector('div[data-id="body"] div.tabs-wrapper') !== null
+        };
+    ```
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vitae eros mattis scelerisque. Vestibulum ullamcorper augue quam, ut auctor risus consectetur consectetur. Curabitur quis eros est. Aliquam erat volutpat. Quisque imperdiet libero ac nibh tristique dignissim. Nam gravida viverra lacus, eu posuere risus efficitur ac.
+
+Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laoreet molestie tellus vel faucibus. Phasellus tortor dui, suscipit ut felis vitae, aliquam vehicula turpis. Vivamus sed dui malesuada, elementum nulla id, egestas arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+
+</div>
+
+<div id="two">
+
+## Two{#title-two}
 
 In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vitae eros mattis scelerisque. Vestibulum ullamcorper augue quam, ut auctor risus consectetur consectetur. Curabitur quis eros est. Aliquam erat volutpat. Quisque imperdiet libero ac nibh tristique dignissim. Nam gravida viverra lacus, eu posuere risus efficitur ac.
 
