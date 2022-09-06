@@ -75,23 +75,13 @@ In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vit
 
 ## One{#title-one}
 
-## Code
-
-    ```js
-        /* eslint-disable no-undef */
-        export const config = {
-        ctx: document.querySelector('div[data-id="body"] div.tabs-wrapper'),
-        active: document.querySelector('div[data-id="body"] div.tabs-wrapper') !== null
-        };
-    ```
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vitae eros mattis scelerisque. Vestibulum ullamcorper augue quam, ut auctor risus consectetur consectetur. Curabitur quis eros est. Aliquam erat volutpat. Quisque imperdiet libero ac nibh tristique dignissim. Nam gravida viverra lacus, eu posuere risus efficitur ac.
 
 Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laoreet molestie tellus vel faucibus. Phasellus tortor dui, suscipit ut felis vitae, aliquam vehicula turpis. Vivamus sed dui malesuada, elementum nulla id, egestas arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
 </div>
 
-<div id="two">
+<div id="Two">
 
 ## Two{#title-two}
 
