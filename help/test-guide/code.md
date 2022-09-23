@@ -12,14 +12,21 @@ print(f'foo is {foo}'
 ```
 
 
-<div class="line-numbers">
-
-<pre >
-
-```python
+<pre>
+<code class="line-numbers language-python" data-start="20" data-line="24-27, 33" >
 foo = 12
 
 print(f'foo is {foo}'
-```
 
-</div>
+def fun():
+    # This is a function definition
+
+    print('Hello from Fun!')
+
+# This is global again
+
+foo = foo + 12
+
+print(f'foo is now {foo}.')
+</code>
+</pre>
