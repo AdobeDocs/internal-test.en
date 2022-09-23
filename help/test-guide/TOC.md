@@ -6,6 +6,7 @@ solution: Experience Cloud
 # Template title {#test}
 
 + [Overview](toc-overview.md)
++ [Note types](note-types.md)
 + [Tab test](tabs.md)
 + [MD Tabs](mdtabs.md)
 + [Highlight](highlight.md)
