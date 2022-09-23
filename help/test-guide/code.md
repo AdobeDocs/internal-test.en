@@ -5,15 +5,15 @@ description: This is the article overview.
 # Title
 
 
-```python{data-start="5" class="line-numbers"}
+```python{class="line-numbers"}
 foo = 12
 
 print(f'foo is {foo}'
 ```
 
 
-<pre>
-<code class="line-numbers language-python" data-start="20" data-line="24-27, 33" >
+<pre  class="line-numbers language-python" data-start="20" data-line="24-27, 33">
+<code>
 foo = 12
 
 print(f'foo is {foo}'
