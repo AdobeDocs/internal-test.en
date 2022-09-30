@@ -2,18 +2,15 @@
 title: Overview
 description: This is the article overview.
 ---
-# Title
+# Code Highlighting a line
 
+## ```python {line-numbers="true" start-line="20" highlight="24-27,31"}```
 
-```python{class="line-numbers"}
-foo = 12
+* `line-numbers="true"`: Turn on line numbers
+* `start-line="20"`: Start line numbers with 20 (not 1).  Can be negative: `-5`
+* `highlight="24-27,31"`: High light lines 24, 25, 26, 27, 31 based on `start-line` offset.
 
-print(f'foo is {foo}'
-```
-
-
-<pre  class="line-numbers language-python" data-start="20" data-line-offset="20" data-line="24-27, 33">
-<code>
+```python {line-numbers="true" start-line="20" highlight="24-27,31"}
 foo = 12
 
 print(f'foo is {foo}'
@@ -28,5 +25,4 @@ def fun():
 foo = foo + 12
 
 print(f'foo is now {foo}.')
-</code>
-</pre>
+```
