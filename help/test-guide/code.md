@@ -4,7 +4,9 @@ description: This is the article overview.
 ---
 # Code Highlighting a line
 
-## ```python {line-numbers="true" start-line="20" highlight="24-27,31"}```
+## New options
+
+```python {line-numbers="true" start-line="20" highlight="24-27,31"}```
 
 * `line-numbers="true"`: Turn on line numbers
 * `start-line="20"`: Start line numbers with 20 (not 1).  Can be negative: `-5`
