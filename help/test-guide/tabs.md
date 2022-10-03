@@ -4,95 +4,24 @@ description: Testing the new tabs feature on dev
 ---
 # Tabs test
 
-<div class="tabs-wrapper">
+<sp-tabs selected="python" size="xl" direction="horizontal" compact quiet>
+<sp-tab label="Python" value="python"></sp-tab>
+<sp-tab label="Javascript" value="javascript"></sp-tab>
+<sp-tab label="Ruby" value="ruby"></sp-tab>
+<sp-tab label="Go" value="go"></sp-tab>
+<sp-tab-panel value="python">Content for Tab 1 is selectable</sp-tab-panel>
+<sp-tab-panel value="javascript">Content for Tab 2 is selected</sp-tab-panel>
+<sp-tab-panel value="ruby">Content for Tab 3 is not selectable</sp-tab-panel>
+<sp-tab-panel value="go">Content for Tab 4 is selectable</sp-tab-panel>
+</sp-tabs>
 
-<div class="tabs is-medium is-centered">
-
-- [Something](#something){class="is-active"}
-- [Other](#other)
-- [Tiger Blood](#tiger-blood)
-    
-</div>
-
-<div class="tabs-content">
-
-<div id="something">
-
-## Something{#title-something}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vitae eros mattis scelerisque. Vestibulum ullamcorper augue quam, ut auctor risus consectetur consectetur. Curabitur quis eros est. Aliquam erat volutpat. Quisque imperdiet libero ac nibh tristique dignissim. Nam gravida viverra lacus, eu posuere risus efficitur ac.
-
-Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laoreet molestie tellus vel faucibus. Phasellus tortor dui, suscipit ut felis vitae, aliquam vehicula turpis. Vivamus sed dui malesuada, elementum nulla id, egestas arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-
-</div>
-
-<div id="other">
-
-**Other**
-
-For any markup that is not covered by Markdown's syntax, you simply use HTML itself. There's no need to preface it or delimit it to indicate that you're switching from Markdown to HTML; you just use the tags.
-
-The only restrictions are that block-level HTML elements
-
-    — e.g. <div>, <table>, <pre>, <p>, etc. — 
-
-must be separated from surrounding content by blank lines, and the start and end tags of the block should not be indented with tabs or spaces. Markdown is smart enough not to add extra (unwanted) <p> tags around HTML block-level tags.
-
-Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laoreet molestie tellus vel faucibus. Phasellus tortor dui, suscipit ut felis vitae, aliquam vehicula turpis. Vivamus sed dui malesuada, elementum nulla id, egestas arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-
-</div>
-
-<div id="tiger-blood">
-
-## Tiger Blood{#title-tiger-blood}
-
-In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vitae eros mattis scelerisque. Vestibulum ullamcorper augue quam, ut auctor risus consectetur consectetur. Curabitur quis eros est. Aliquam erat volutpat. Quisque imperdiet libero ac nibh tristique dignissim. Nam gravida viverra lacus, eu posuere risus efficitur ac.
-
-Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laoreet molestie tellus vel faucibus. Phasellus tortor dui, suscipit ut felis vitae, aliquam vehicula turpis. Vivamus sed dui malesuada, elementum nulla id, egestas arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-
-In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vitae eros mattis scelerisque. Vestibulum ullamcorper augue quam, ut auctor risus consectetur consectetur. Curabitur quis eros est. Aliquam erat volutpat. Quisque imperdiet libero ac nibh tristique dignissim. Nam gravida viverra lacus, eu posuere risus efficitur ac.
-
-</div>
-
-</div>
-
-</div>
-
-## ANOTHER TEST
-
-<div class="tabs-wrapper">
-
-<div class="tabs is-small">
-
-- [One](#One)
-- [Two](#Two){class="is-active"}
-    
-</div>
-
-<div class="tabs-content">
-
-<div id="One">
-
-## One{#title-one}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vitae eros mattis scelerisque. Vestibulum ullamcorper augue quam, ut auctor risus consectetur consectetur. Curabitur quis eros est. Aliquam erat volutpat. Quisque imperdiet libero ac nibh tristique dignissim. Nam gravida viverra lacus, eu posuere risus efficitur ac.
-
-Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laoreet molestie tellus vel faucibus. Phasellus tortor dui, suscipit ut felis vitae, aliquam vehicula turpis. Vivamus sed dui malesuada, elementum nulla id, egestas arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-
-</div>
-
-<div id="Two">
-
-## Two{#title-two}
-
-In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vitae eros mattis scelerisque. Vestibulum ullamcorper augue quam, ut auctor risus consectetur consectetur. Curabitur quis eros est. Aliquam erat volutpat. Quisque imperdiet libero ac nibh tristique dignissim. Nam gravida viverra lacus, eu posuere risus efficitur ac.
-
-Donec consectetur nec urna in aliquam. Mauris vel lacinia dui. Pellentesque laoreet molestie tellus vel faucibus. Phasellus tortor dui, suscipit ut felis vitae, aliquam vehicula turpis. Vivamus sed dui malesuada, elementum nulla id, egestas arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-
-In massa orci, eleifend eget gravida eget, consequat nec neque. Nam ac ipsum vitae eros mattis scelerisque. Vestibulum ullamcorper augue quam, ut auctor risus consectetur consectetur. Curabitur quis eros est. Aliquam erat volutpat. Quisque imperdiet libero ac nibh tristique dignissim. Nam gravida viverra lacus, eu posuere risus efficitur ac.
-
-</div>
-
-</div>
-
-</div>
+    <sp-tabs selected="python" size="xl" direction="horizontal" compact quiet>
+    <sp-tab label="Python" value="python"></sp-tab>
+    <sp-tab label="Javascript" value="javascript"></sp-tab>
+    <sp-tab label="Ruby" value="ruby"></sp-tab>
+    <sp-tab label="Go" value="go"></sp-tab>
+    <sp-tab-panel value="python">Content for Tab 1 is selectable</sp-tab-panel>
+    <sp-tab-panel value="javascript">Content for Tab 2 is selected</sp-tab-panel>
+    <sp-tab-panel value="ruby">Content for Tab 3 is not selectable</sp-tab-panel>
+    <sp-tab-panel value="go">Content for Tab 4 is selectable</sp-tab-panel>
+    </sp-tabs>
