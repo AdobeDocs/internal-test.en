@@ -10,8 +10,6 @@ Anim aute ex elit qui duis qui et pariatur cillum nisi Lorem fugiat amet. Aliqui
 
 ### Hello World in different languages
 
-<div class="tabs-wrapper">
-
 >[!TABS START]
 
 >[!TAB Javascript]
@@ -37,11 +35,9 @@ Fluffy
 
 >[!TABS END]
 
-</div>
 
 Foo!!
 
-<div class="tabs-wrapper">
 
 >[!TABS START]
 
@@ -68,4 +64,3 @@ Fluff
 
 >[!TABS END]
 
-</div>
