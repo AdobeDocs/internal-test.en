@@ -7,6 +7,8 @@ solution: Experience Cloud
 
 + [Overview](toc-overview.md)
 + [Code](code.md)
++ [Badge](badge.md)
++ [Code highlighting](code-highlighting.md)
 + [Note types](note-types.md)
 + [Tab test](tabs.md)
 + [MD Tabs](mdtabs.md)
