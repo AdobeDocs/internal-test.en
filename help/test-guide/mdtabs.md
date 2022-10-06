@@ -14,6 +14,10 @@ Anim aute ex elit qui duis qui et pariatur cillum nisi Lorem fugiat amet. Aliqui
 
 >[!TAB Javascript]
 
+Phasellus volutpat pharetra erat eleifend dignissim. Phasellus quis ullamcorper dolor, a mollis sapien. Pellentesque porttitor ligula id velit luctus, id sodales erat porttitor. Nam ultricies, eros et accumsan tempor, sem purus eleifend enim, nec sollicitudin ligula tortor eu odio. Pellentesque orci sapien, auctor non hendrerit vitae, pharetra id sem. Ut accumsan eleifend nibh sed blandit. Nulla facilisi. Aenean eu lacinia ante.
+
+Phasellus volutpat pharetra erat eleifend dignissim. Phasellus quis ullamcorper dolor, a mollis sapien. Pellentesque porttitor ligula id velit luctus, id sodales erat porttitor. Nam ultricies, eros et accumsan tempor, sem purus eleifend enim, nec sollicitudin ligula tortor eu odio. Pellentesque orci sapien, auctor non hendrerit vitae, pharetra id sem. Ut accumsan eleifend nibh sed blandit. Nulla facilisi. Aenean eu lacinia ante.
+
 Simple one-liner:
 
 ```javascript
@@ -21,6 +25,8 @@ console.log('Hello World!')
 ```
 
 >[!TAB Python]
+
+Phasellus volutpat pharetra erat eleifend dignissim. Phasellus quis ullamcorper dolor, a mollis sapien. Pellentesque porttitor ligula id velit luctus, id sodales erat porttitor. Nam ultricies, eros et accumsan tempor, sem purus eleifend enim, nec sollicitudin ligula tortor eu odio. Pellentesque orci sapien, auctor non hendrerit vitae, pharetra id sem. Ut accumsan eleifend nibh sed blandit. Nulla facilisi. Aenean eu lacinia ante.
 
 >[!NOTE]
 >Easy Peasy!
@@ -50,6 +56,12 @@ console.log('Hello World!')
 ```
 
 >[!TAB Python2]
+
+## Objectives
+
+* Create Content Fragment Models.
+* Add tab placeholders, date and time, JSON objects, fragment references, and content references to the models.
+* Add validation to content references.
 
 >[!NOTE]
 >Easy Peasy!
