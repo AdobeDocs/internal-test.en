@@ -12,6 +12,7 @@ solution: Experience Cloud
 + [Note types](note-types.md)
 + [Tab test](tabs.md)
 + [MD Tabs](mdtabs.md)
++ [Tabs AEP SDK](tabs-aep-sdk.md)
 + [Highlight](highlight.md)
 + [Workfront render problem](workfront-render-problem.md)
 + [Note test for Keith](note-test.md)
