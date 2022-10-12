@@ -19,7 +19,7 @@ Follow the directions below to include the SDK into your mobile application.
 
 >[!TAB Android]
 
-## Java / Kotlin
+**Java / Kotlin**
 
 >[!WARNING]
 >
@@ -55,7 +55,7 @@ Follow the directions below to include the SDK into your mobile application.
 >
 >Please see the [release notes](https://www.adobe.com) and the document on [current SDK versions](https://www.adobe.com) for more information on the latest extension versions.
 
-## iOS \(Swift\) version 3.x
+**iOS (Swift) version 3.x**
 
 Add the dependencies to your `Podfile` for each extension. For a complete list of available SDK extension libraries, please read the documentation on [current SDK Versions](https://www.adobe.com).
 
@@ -87,7 +87,7 @@ end
 >
 >Adobe Experience Platform SDKs for iOS support **iOS 10 or later**; **requires** Swift 5.1 or newer; **and** Xcode 11.0 or newer.
 
-## Apple M1 compatibility
+**Apple M1 compatibility**
 
 In order to support the new Apple M1 architecture while maintaining support for existing Intel architecture, the Adobe Experience Platform SDKs are now distributed using XCFrameworks.
 
@@ -106,7 +106,7 @@ You should see a pop-up similar to the following image:
 
 >[!TAB React Native]
 
-## React Native
+**React Native**
 
 Adobe Experience Platform Mobile SDK plugin for React Native supports React Native **version 0.60.0 or later**. For the latest installation instructions, see the `README` file in the [`react-native-acpcore`](https://github.com/adobe/react-native-acpcore) repository.
 
@@ -122,7 +122,7 @@ To update native dependencies to latest available versions, run the following co
 
 >[!TAB Flutter]
 
-## Flutter
+**Flutter**
 
 Adobe Experience Platform Mobile SDK plugin for Flutter supports Flutter **versions 1.10.0 or later**.
 
@@ -130,7 +130,7 @@ For the latest Flutter installation instructions, see the package [install tab](
 
 >[!TAB Cordova]
 
-## Cordova
+**Cordova**
 
 Adobe Experience Platform Mobile SDK plugins for Cordova supports Cordova **versions 9.0.0 or later**. For the latest Cordova installation instructions, see the `README` file in the [`cordova-acpcore`](https://github.com/adobe/cordova-acpcore) repository.
 
@@ -150,7 +150,7 @@ cordova plugin add https://github.com/adobe/cordova-acpcore.git
 
 >[!TAB Unity]
 
-## Unity
+**Unity**
 
 Adobe Experience Platform SDKs plugins for Unity supports **Unity versions 2019.3.10f1 or later**
 
@@ -166,7 +166,7 @@ For instance, to add the Mobile Core extension, you should:
 
 >[!TAB Xamarin]
 
-## Xamarin
+**Xamarin**
 
 Adobe Experience Platform Mobile SDK plugins for Xamarin require **MonoAndroid 9.0+ and Xamarin.iOS 1.0+**. For the latest Xamarin installation instructions, see the `README` file in the [`xamarin-acpcore`](https://github.com/adobe/xamarin-acpcore) repository.
 
@@ -653,9 +653,15 @@ public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompa
 }
 ```
 
+>[!TAB **Bob's Video Test**]
+
+Here is a video:
+
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+
 >[!TABS END]
 
-### 3. Ensure app permissions \(Android only\)
+### 3. Ensure app permissions (Android only)
 
 For Android, the SDK requires standard [network connection](https://developer.android.com/training/basics/network-ops/connecting) permissions in your manifest to send data, collect cellular provider, and record offline tracking calls.
 
