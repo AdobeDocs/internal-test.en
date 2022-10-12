@@ -15,6 +15,8 @@ Follow the directions below to include the SDK into your mobile application.
 >
 >For iOS and Android projects, the recommended approach for integrating the SDK is to use supported dependency and package managers as listed for each platform such as Maven and Cocoapods. SDKs are also available for download on [GitHub](https://github.com/Adobe-Marketing-Cloud/acp-sdks/).
 
+<div class="sp-wrapper">
+
 >[!TABS START]
 
 >[!TAB Android]
@@ -176,6 +178,8 @@ Adobe Experience Platform Mobile SDK plugins for Xamarin require **MonoAndroid 9
 
 >[!TABS END]
 
+</div>
+
 ## Installation instructions
 
 If you cannot access the **Mobile Install Instructions** dialog box in Experience Platform Launch, complete the following sections to get the Adobe Experience Platform SDK. If you already completed the steps in the Mobile Install Instructions dialog box, no need to complete these steps.
@@ -183,6 +187,8 @@ If you cannot access the **Mobile Install Instructions** dialog box in Experienc
 ### 1. Add dependencies to your project
 
 Each extension needs to be added as a dependency to the mobile application project. The following examples will add the Mobile Core and Profile extensions.
+
+<div class="sp-wrapper">
 
 >[!TABS START]
 
@@ -255,6 +261,8 @@ pod install
 
 >[!TABS END]
 
+</div>
+
 ### 2. Add initialization code
 
 Next you'll need to import SDK libraries into your project and register them for initialization. Extensions are registered with Mobile Core so that they can dispatch and listen for events.
@@ -262,6 +270,8 @@ Next you'll need to import SDK libraries into your project and register them for
 Extension registration is **mandatory**. Attempting to make extension-specific API calls without registering the extension will lead to undefined behavior.
 
 The following code snippets demonstrate how you can import and register the Mobile Core and Profile extensions. You can also see, for reference, how Identity, Lifecycle, Signal, Profile, and other extensions are imported and registered.
+
+<div class="sp-wrapper">
 
 >[!TABS START]
 
@@ -660,6 +670,8 @@ Here is a video:
 >[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
 
 >[!TABS END]
+
+</div>
 
 ### 3. Ensure app permissions (Android only)
 
