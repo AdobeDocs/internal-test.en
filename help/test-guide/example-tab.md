@@ -1,6 +1,6 @@
 ---
 title: Example section as single tab
-description: This is not a description.
+description: This is not an effective description.
 ---
 
 # Example section as a single tab
