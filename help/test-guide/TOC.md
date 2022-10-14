@@ -14,6 +14,7 @@ solution: Experience Cloud
 + [Example tab](example-tab.md)
 + [MD Tabs](mdtabs.md)
 + [Tabs AEP SDK](tabs-aep-sdk.md)
++ [Example Box Text](example-boxtext.md)
 + [Highlight](highlight.md)
 + [Workfront render problem](workfront-render-problem.md)
 + [Note test for Keith](note-test.md)
