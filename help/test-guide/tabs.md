@@ -11,7 +11,7 @@ A tab is a clickable area at the top of a section that shows different content. 
 **Tab syntax**
 
 ```
->[!TABS BEGIN]
+>[!TABS START]
 
 >[!TAB iOS]
 
@@ -38,7 +38,7 @@ This content appears in the Linux tab.
 
 **Rendered**
 
->[!TABS BEGIN]
+>[!TABS START]
 
 >[!TAB iOS]
 
