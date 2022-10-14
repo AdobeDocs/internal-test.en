@@ -17,7 +17,7 @@ A tab is a clickable area at the top of a section that shows different content. 
 
 This content appears in the iOS tab.
 
->[!TAB iOS]
+>[!TAB Android]
 
 This content appears in the Android tab.
 
@@ -44,7 +44,7 @@ This content appears in the Linux tab.
 
 This content appears in the iOS tab.
 
->[!TAB iOS]
+>[!TAB Android]
 
 This content appears in the Android tab.
 
