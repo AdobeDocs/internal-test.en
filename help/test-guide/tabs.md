@@ -60,6 +60,19 @@ This content appears in the MacOS tab.
 
 This content appears in the Linux tab.
 
+>[!TABS START]
+
+>[!TAB Subtab 1]
+
+This content appears in the Subtab 1 tab.
+
+>[!TAB Subtab 2]
+
+This content appears in the Subtab 2 tab.
+
+>[!TABS END]
+
+
 >[!TABS END]
 
 ## Objectives
