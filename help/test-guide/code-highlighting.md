@@ -89,9 +89,9 @@ Testing highlighting within code blocks.
 
 ## Highlighting and start line (overshoot)
 
-`js line-numbers="true" start-line="7" highlight="4-10, 18"`
+`js line-numbers="true" start-line="7" highlight="9-14, 26"`
 
-```js line-numbers="true" start-line="7" highlight="4-10, 18"  
+```js line-numbers="true" start-line="7" highlight="9-14, 26"  
   line 1, the first
   line 2
   line 3
@@ -116,7 +116,7 @@ Testing highlighting within code blocks.
 
 ## Standard test
 
-```python {.line-numbers}
+```python line-numbers="true"
 # Python code to demonstrate the working of
 # random() and seed()
  
