@@ -9,7 +9,7 @@ description: This is not an effective description.
 
 `>[!BOXTEXT START "Example"]`
 
-See this example below
+<!-- See this example below
 
 >[!BOXTEXT START "Example"]
 
@@ -111,4 +111,4 @@ The Adobe Experience Platform SDK is available for Apple iOS (includes iOS, iPad
 
 
 Anim aute ex elit qui duis qui et pariatur cillum nisi Lorem fugiat amet. Aliquip duis ut laborum tempor. Cupidatat velit est dolor fugiat Lorem ipsum velit ex velit mollit. Ut laborum cupidatat mollit eiusmod in sunt reprehenderit quis sunt irure consectetur et ex Lorem. Lorem anim laboris mollit id labore dolore.
-
+ -->
