@@ -27,7 +27,7 @@ Testing highlighting within code blocks.
 
 `js line-numbers="true" start-line="6"`
 
-```js line-numbers="true" start-line="6"  
+```js {line-numbers="true" start-line="6"}  
   line 1, the first
   line 2
   line 3
@@ -54,7 +54,7 @@ Testing highlighting within code blocks.
 
 `js line-numbers="true" highlight="4-10, 16"`
 
-```js line-numbers="true" highlight="4-10, 16"  
+```js {line-numbers="true" highlight="4-10, 16"}  
   line 1, the first
   line 2
   line 3
@@ -81,7 +81,7 @@ Testing highlighting within code blocks.
 
 `js line-numbers="true" start-line="3" highlight="4-10, 16"`
 
-```js line-numbers="true" start-line="3" highlight="4-10, 16"  
+```js {line-numbers="true" start-line="3" highlight="4-10, 16"}  
   line 1, the first
   line 2
   line 3
@@ -108,7 +108,7 @@ Testing highlighting within code blocks.
 
 `html line-numbers="true" start-line="7" highlight="9-14, 26"`
 
-```html line-numbers="true" start-line="7" highlight="9-14, 26"  
+```html {line-numbers="true" start-line="7" highlight="9-14, 26"}  
   line 1, the first
   line 2
   line 3
@@ -133,7 +133,7 @@ Testing highlighting within code blocks.
 
 `js line-numbers="true" start-line="7" highlight="9-14, 26"`
 
-```js line-numbers="true" start-line="7" highlight="9-14, 26"  
+```js {line-numbers="true" start-line="7" highlight="9-14, 26"}  
   line 1, the first
   line 2
   line 3
@@ -158,7 +158,7 @@ Testing highlighting within code blocks.
 
 ## Standard test
 
-```python line-numbers="true"
+```python {line-numbers="true"}
 # Python code to demonstrate the working of
 # random() and seed()
  
