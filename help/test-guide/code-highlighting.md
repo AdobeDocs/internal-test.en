@@ -6,6 +6,23 @@ description: Testing code blocks with numbering and highlighting
 
 Testing highlighting within code blocks.
 
+## Copied from auth guide
+
+`html {line-numbers="true" start-line="7" highlight="11-13, 16"}`
+
+```html {line-numbers="true" start-line="7" highlight="11-13, 16"}
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+<p>My second paragraph.</p>
+
+</body>
+</html>
+```
+
 ## Different start line
 
 `js line-numbers="true" start-line="6"`
