@@ -3,15 +3,15 @@ title: Example section as single tab
 description: This is not an effective description.
 ---
 
-# Example Box Text options
+# Example Shade Box options
 
-## `BOXTEXT` component
+## `SHADEBOX` component
 
-`>[!BOXTEXT START "Example"]`
+`>[!BEGINSHADEBOX "Example"]`
 
-<!-- See this example below
+See this example below
 
->[!BOXTEXT START "Example"]
+>[!BEGINSHADEBOX "Example"]
 
 Anim aute ex elit qui duis qui et pariatur cillum nisi Lorem fugiat amet. Aliquip duis ut laborum tempor. Cupidatat velit est dolor fugiat Lorem ipsum velit ex velit mollit. Ut laborum cupidatat mollit eiusmod in sunt reprehenderit quis sunt irure consectetur et ex Lorem. Lorem anim laboris mollit id labore dolore.
 
@@ -28,7 +28,7 @@ console.log('Hello World!')
 print('Hello World\n')
 ```
 
->[!BOXTEXT END]
+>[!ENDSHADEBOX]
 
 
 
@@ -36,17 +36,17 @@ print('Hello World\n')
 Foo!!
 
 
->[!BOXTEXT START]
+>[!BEGINSHADEBOX]
 
 Anim aute ex elit qui duis qui et pariatur cillum nisi Lorem fugiat amet. Aliquip duis ut laborum tempor. Cupidatat velit est dolor fugiat Lorem ipsum velit ex velit mollit. Ut laborum cupidatat mollit eiusmod in sunt reprehenderit quis sunt irure consectetur et ex Lorem. Lorem anim laboris mollit id labore dolore.
 
->[!BOXTEXT END]
+>[!ENDSHADEBOX]
 
 ## Single Tab
 
 The Adobe Experience Platform SDK is available for Apple iOS (includes iOS, iPadOS, and tvOS) via [Cocoapods](https://cocoapods.org/), for Google Android via [Gradle](https://gradle.org), and for various cross-platform platforms such as Cordova, Flutter, React Native, Unity, and Xamarin.
 
->[!TABS START]
+>[!BEGINTABS]
 
 >[!TAB EXAMPLE]
 
@@ -74,7 +74,7 @@ Adobe Experience Platform SDKs for Android supports Android 4.0 (API 14) or late
 >
 >Adobe Experience Platform SDKs for iOS support **iOS 10 or later**; **requires** Swift 5.1 or newer; **and** Xcode 11.0 or newer.
 
->[!TABS END]
+>[!ENDTABS]
 
 The Adobe Experience Platform SDK is available for Apple iOS (includes iOS, iPadOS, and tvOS) via [Cocoapods](https://cocoapods.org/), for Google Android via [Gradle](https://gradle.org), and for various cross-platform platforms such as Cordova, Flutter, React Native, Unity, and Xamarin.
 
@@ -111,4 +111,4 @@ The Adobe Experience Platform SDK is available for Apple iOS (includes iOS, iPad
 
 
 Anim aute ex elit qui duis qui et pariatur cillum nisi Lorem fugiat amet. Aliquip duis ut laborum tempor. Cupidatat velit est dolor fugiat Lorem ipsum velit ex velit mollit. Ut laborum cupidatat mollit eiusmod in sunt reprehenderit quis sunt irure consectetur et ex Lorem. Lorem anim laboris mollit id labore dolore.
- -->
+

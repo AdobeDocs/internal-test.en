@@ -10,7 +10,7 @@ Anim aute ex elit qui duis qui et pariatur cillum nisi Lorem fugiat amet. Aliqui
 
 ### Hello World in different languages
 
->[!TABS START]
+>[!BEGINTABS]
 
 >[!TAB Javascript]
 
@@ -39,13 +39,13 @@ print('Hello World\n')
 
 Fluffy
 
->[!TABS END]
+>[!ENDTABS]
 
 
 Foo!!
 
 
->[!TABS START]
+>[!BEGINTABS]
 
 >[!TAB Javascript2]
 
@@ -74,5 +74,5 @@ print('Hello World\n')
 
 Fluff
 
->[!TABS END]
+>[!ENDTABS]
 

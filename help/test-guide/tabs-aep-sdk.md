@@ -15,7 +15,7 @@ Follow the directions below to include the SDK into your mobile application.
 >
 >For iOS and Android projects, the recommended approach for integrating the SDK is to use supported dependency and package managers as listed for each platform such as Maven and Cocoapods. SDKs are also available for download on [GitHub](https://github.com/Adobe-Marketing-Cloud/acp-sdks/).
 
->[!TABS START]
+>[!BEGINTABS]
 
 >[!TAB Android]
 
@@ -174,7 +174,7 @@ Adobe Experience Platform Mobile SDK plugins for Xamarin require **MonoAndroid 9
 >
 >The Adobe Experience Platform Mobile SDK plugins for Xamarin are packages distributed via [nuget](https://www.nuget.org/packages). NuGet packages can be added to projects within a [Visual Studio](https://visualstudio.microsoft.com/downloads/) solution. The NuGet packages can also be generated locally via the included Makefile located in each of the Xamarin repositories.
 
->[!TABS END]
+>[!ENDTABS]
 
 ## Installation instructions
 
@@ -184,7 +184,7 @@ If you cannot access the **Mobile Install Instructions** dialog box in Experienc
 
 Each extension needs to be added as a dependency to the mobile application project. The following examples will add the Mobile Core and Profile extensions.
 
->[!TABS START]
+>[!BEGINTABS]
 
 >[!TAB Android]
 
@@ -253,7 +253,7 @@ Save the `Podfile` and run install:
 pod install
 ```
 
->[!TABS END]
+>[!ENDTABS]
 
 ### 2. Add initialization code
 
@@ -263,7 +263,7 @@ Extension registration is **mandatory**. Attempting to make extension-specific A
 
 The following code snippets demonstrate how you can import and register the Mobile Core and Profile extensions. You can also see, for reference, how Identity, Lifecycle, Signal, Profile, and other extensions are imported and registered.
 
->[!TABS START]
+>[!BEGINTABS]
 
 >[!TAB Android]
 
@@ -659,7 +659,7 @@ Here is a video:
 
 >[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
 
->[!TABS END]
+>[!ENDTABS]
 
 ### 3. Ensure app permissions (Android only)
 
