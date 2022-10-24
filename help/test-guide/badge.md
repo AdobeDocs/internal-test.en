@@ -7,7 +7,7 @@ badge-color: negative
 badge-url: https://www.adobe.com
 badge-tooltip: Yes!
 badge2: label="Ahoy!" type="Informative" url="https://www.example.com"
-badge3: label="AEM 6.5" url="https://www.example.com" type="Caution"
+badge3: label=AEM 6.5 url="https://www.example.com" type="Caution"
 ---
 # We don't need no stinkin' badges!
 
