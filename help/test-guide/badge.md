@@ -43,7 +43,7 @@ badge-tooltip: Yes!
 |Positive|[!BADGE New Feature]{type=Positive url="https://www.example.com" tooltip="Go to example.com"}|
 |Negative|[!BADGE Discontinued]{type=Negative tooltip="This feature is now end of life"}|
 |Neutral|[!BADGE Note]{type=Informative tooltip="This information is neither good nor bad."}|
-|Caution|[!BADGE Attention]{type=Caution} tooltip="Yellow status"|
+|Caution|[!BADGE Attention]{type=Caution tooltip="Yellow status"}|
 
 ## [!BADGE Heading]{type=Positive tooltip="Badge in heading"} Badge in heading
 
