@@ -6,8 +6,8 @@ badge-before-title: true
 badge-color: negative
 badge-url: https://www.adobe.com
 badge-tooltip: Yes!
-badge2: label="Ahoy!" type="Informative" url="https://www.example.com"
-badge3: label="AEM 6.5" url="https://www.example.com" type="Caution"
+badge: label="Ahoy!" type="Informative" url="https://www.example.com"
+badge: label="AEM 6.5" url="https://www.example.com" type="Caution"
 ---
 # We don't need no stinkin' badges!
 
@@ -35,14 +35,14 @@ badge3: label="AEM 6.5" url="https://www.example.com" type="Caution"
 |Informative (default)|[!BADGE Beta]{type=Informative url="https://www.example.com"}|
 |Positive|[!BADGE New Feature]{type=Positive url="https://www.example.com" tooltip="Go to example.com"}|
 |Negative|[!BADGE Discontinued]{type=Negative tooltip="This feature is now end of life"}|
-|Neutral|[!BADGE Note]{type=Neutral tooltip="This information is neither good nor bad."}|
+|Neutral|[!BADGE Maybe]{type=Neutral tooltip="A rider fell off his horse..."}|
 |Caution|[!BADGE Attention]{type=Caution} tooltip="Yellow status"|
 ```
 
 |Type|Badge|
 |---|---|
 |Informative (default)|[!BADGE Beta]{type=Informative url="https://www.example.com"}|
-|Positive|[!BADGE New Feature]{type=Blessed url="https://www.example.com" tooltip="Go to example.com"}|
+|Positive|[!BADGE New Feature]{type=Positive url="https://www.example.com" tooltip="Go to example.com"}|
 |Negative|[!BADGE Discontinued]{type=negative tooltip="This feature is now end of life"}|
 |Neutral|[!BADGE Maybe]{type=Neutral tooltip="A rider fell off his horse..."}|
 |Caution|[!BADGE Attention]{type=Caution tooltip="Yellow status"}|
