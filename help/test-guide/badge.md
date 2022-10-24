@@ -25,6 +25,26 @@ badge-tooltip: Yes!
 
 [!BADGE Neutral]{type=Neutral} [!BADGE Informative]{type=Informative} [!BADGE Positive]{type=Positive} [!BADGE Negative]{type=Negative}
 
+## Bob Documentation
+
+```
+|Type|Badge|
+|---|---|
+|Informative (default)|[!BADGE Beta]{type=Informative url="https://www.example.com"}|
+|Positive|[!BADGE New Feature]{type=Positive url="https://www.example.com" tooltip="Go to example.com"}|
+|Negative|[!BADGE Discontinued]{type=Negative tooltip="This feature is now end of life"}|
+|Neutral|[!BADGE Note]{type=Informative tooltip="This information is neither good nor bad."}|
+|Caution|[!BADGE Attention]{type=Caution} tooltip="Yellow status"|
+```
+
+|Type|Badge|
+|---|---|
+|Informative (default)|[!BADGE Beta]{type=Informative url="https://www.example.com"}|
+|Positive|[!BADGE New Feature]{type=Positive url="https://www.example.com" tooltip="Go to example.com"}|
+|Negative|[!BADGE Discontinued]{type=Negative tooltip="This feature is now end of life"}|
+|Neutral|[!BADGE Note]{type=Informative tooltip="This information is neither good nor bad."}|
+|Caution|[!BADGE Attention]{type=Caution} tooltip="Yellow status"|
+
 ## [!BADGE Heading]{type=Positive tooltip="Badge in heading"} Badge in heading
 
 I added `## [!BADGE Heading]{type=Positive tooltip="Badge in heading"} Badge in heading` as a heading. Test.
