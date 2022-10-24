@@ -43,9 +43,9 @@ badge3: label="AEM 6.5" url="https://www.example.com" type="Caution"
 |---|---|
 |Informative (default)|[!BADGE Beta]{type=Informative url="https://www.example.com"}|
 |Positive|[!BADGE New Feature]{type=Positive url="https://www.example.com" tooltip="Go to example.com"}|
-|Negative|[!BADGE "Discontinued"]{type=Negative tooltip="This feature is now end of life"}|
-|Neutral|[!BADGE label="Note"]{type=Neutral tooltip="This information is neither good nor bad."}|
-|Caution|[!BADGE Attention]{type=Caution tooltip="Yellow status"}|
+|Negative|[!BADGE Discontinued]{type=Negative tooltip="This feature is now end of life"}|
+|Neutral|[!BADGE Maybe]{type=Neutral tooltip="A rider fell off his horse..."|
+|Caution|[!BADGE Attention]{type=Cautiontooltip="Yellow status"}|
 
 ## [!BADGE Heading]{type=Positive tooltip="Badge in heading"} Badge in heading
 
