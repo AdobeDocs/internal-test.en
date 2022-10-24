@@ -6,8 +6,8 @@ badge-before-title: true
 badge-color: negative
 badge-url: https://www.adobe.com
 badge-tooltip: Yes!
-badge2: label=Ahoy! type=Informative url=https://www.example.com
-badge3: AEM 6.5 url=https://www.example.com type="Informative"
+badge2: label="Ahoy!" type="Informative" url="https://www.example.com"
+badge3: "AEM 6.5" url="https://www.example.com" type="Informative"
 ---
 # We don't need no ***REMOVED***in' badges!
 
