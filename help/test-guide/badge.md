@@ -13,6 +13,8 @@ In order to fancify a gizmo, you can combine the power of sprockets with the fun
 
 ## Understanding sprockets
 
+[!BADGE Premium]{type=Informative url="https://www.example.com"}
+
 In 1843, Eli McWilloughby was carrying piping hot metal from his forge. Thinking he was dipping the piece of metal into water in order to quench the steel, he instead dipped the flaming metal into a vat of acid. 
 
 ```
