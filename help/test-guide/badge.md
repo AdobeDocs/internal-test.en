@@ -44,7 +44,7 @@ In order to fancify a gizmo, you can combine the power of sprockets with the fun
 
 [!BADGE Relative link]{type=Negative url="beta.md" tooltip="Open beta.md"}
 
-[!BADGE Open in new tab]{type=Negative url="https://www.adobe.com target=_blank" tooltip="Open beta.md"}
+[!BADGE Open in new tab]{type=Negative url="https://www.adobe.com" target=_blank tooltip="Open beta.md"}
 
 ## SCCM Markdown
 
