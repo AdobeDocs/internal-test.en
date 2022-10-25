@@ -1,15 +1,17 @@
 ---
 title: badges
 description: This is the article overview.
-badge: "Beta Content"
-badge-before-title: true
-badge-color: negative
+badge: "Beta"
+badge-type: Informative
 badge-url: https://www.adobe.com
-badge-tooltip: Yes!
-badge2: label="Ahoy!" type="Informative" url="https://www.example.com"
-badge3: label=AEM 6.5 url="https://www.example.com" type="Caution"
+badge-tooltip: This is beta content
+badge2: "Campaign v8"
+badge2-type: Negative
+badge2-url: https://www.adobe.com
+badge2-tooltip: This is beta content
+badgeWeb: label="Campaign Web" url="https://www.example.com" type="Positive"
 ---
-# We don't need no stinkin' badges!
+# Combining sprockets and widgets
 
 
 [!BADGE Unreleased]{type=Negative}
