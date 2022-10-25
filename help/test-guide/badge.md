@@ -11,11 +11,7 @@ badgeWeb: label="Campaign Web" url="https://www.example.com" type="Positive"
 
 In order to fancify a gizmo, you can combine the power of sprockets with the functionality of widgets.
 
-## Understanding sprockets
-
-[!BADGE Premium]{type=Informative url="https://www.example.com"}
-
-In 1843, Eli McWilloughby was carrying piping hot metal from his forge. Thinking he was dipping the piece of metal into water in order to quench the steel, he instead dipped the flaming metal into a vat of acid. 
+## Examples
 
 ```
 |Type|Badge|
@@ -44,6 +40,11 @@ In 1843, Eli McWilloughby was carrying piping hot metal from his forge. Thinking
 |Discontinued|[!BADGE Discontinued]{type=Negative tooltip="foo"}|
 |Current|[!BADGE Latest Version]{type=Informative}|
 
+## Link testing
+
+!BADGE Relative link]{type=Negative url="beta.md" tooltip="Open beta.md"}
+
+!BADGE Open in new tab]{type=Negative url="https://www.adobe.com target=_blank" tooltip="Open beta.md"}
 
 ## SCCM Markdown
 
@@ -65,3 +66,9 @@ From spectrum docs:
     <sp-badge variant="negative">Negative</sp-badge>
 </div>
 
+
+## Understanding sprockets
+
+[!BADGE Premium]{type=Informative url="https://www.example.com"}
+
+In 1843, Eli McWilloughby was carrying piping hot metal from his forge. Thinking he was dipping the piece of metal into water in order to quench the steel, he instead dipped the flaming metal into a vat of acid. 
