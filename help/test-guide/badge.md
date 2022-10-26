@@ -31,7 +31,7 @@ In order to fancify a gizmo, you can combine the power of sprockets with the fun
 |Neutral|[!BADGE Maybe]{type=Neutral tooltip="A rider fell off his horse..."}|
 |Caution|[!BADGE Attention]{type=Caution tooltip="Yellow status"}|
 
-## More testing
+## [!BADGE Beta]{type=Positive tooltip="Beta content"} More testing
 
 |Label|Badge|
 |---|---|
@@ -39,6 +39,9 @@ In order to fancify a gizmo, you can combine the power of sprockets with the fun
 |Sunset|[!BADGE End-of-life]{type=Positive url="https://www.example.com" tooltip="Example!"}|
 |Discontinued|[!BADGE Discontinued]{type=Negative tooltip="foo"}|
 |Current|[!BADGE Latest Version]{type=Informative}|
+|Inline badge with text in table|[!BADGE Inline table]{type=Informative} Stay tuned for more|
+
+[!BADGE Inline paragraph]{type=Informative} Badges aren't really intended to be inline, but we should support it.
 
 ## Link testing
 
