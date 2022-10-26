@@ -31,6 +31,14 @@ Adobe Experience Platform SDKs for Android supports Android 4.0 (API 14) or late
 
    The necessary dependencies and initialization code can be copied from the dialog box to your mobile application project.
 
+
+>[!BEGINSHADEBOX "Example"]
+
+This is a shade box within a tab set.
+
+>[!ENDSHADEBOX]
+
+
 >[!WARNING]
 >
 >Adobe Experience Platform SDKs for iOS support **iOS 10 or later**; **requires** Swift 5.1 or newer; **and** Xcode 11.0 or newer.

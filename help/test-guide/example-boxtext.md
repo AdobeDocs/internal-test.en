@@ -28,6 +28,19 @@ console.log('Hello World!')
 print('Hello World\n')
 ```
 
+>[!BEGINTABS]
+
+>[!TAB Android]
+
+Android devices are not that good.
+
+>[!TAB iOS]
+
+iOS devices are fine. The iPad was a marvel in 2010, but lost its way.
+
+>[!ENDTABS]
+
+
 >[!ENDSHADEBOX]
 
 
