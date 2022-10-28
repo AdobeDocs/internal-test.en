@@ -6,6 +6,7 @@ badge-type: Informative
 badge-url: https://www.adobe.com
 badge-tooltip: This is beta content
 badgeWeb: label="Campaign Web" url="https://www.example.com" type="Positive"
+badge3: label="v8" url="https://www.example.com" type="Neutral"
 ---
 # Combining sprockets and widgets
 
