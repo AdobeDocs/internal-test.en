@@ -21,6 +21,7 @@ solution: Experience Cloud
 + [Snippets](snippets.md)
 + [Bob's Snippets](snippets-bob.md)
 + [Beta](beta.md)
++ [POC Zoom Images](poc-zoom-images.md)
 + [Collapsible content](collapsible-content.md)
 + [AEP Gitbook Test](gitbook.md)
 + [Exl-id test blank value bad](exlid-test-blank.md)
@@ -30,7 +31,6 @@ solution: Experience Cloud
 + [UGP 6547](ugp-6547.md)
 + [UGP 7381 file 1](ugp-7381-commerce-admin-b2b-install.md)
 + [UGP 7381 file 2](ugp-7381-commerce-merchant-install.md)
-+ [UGP 7103 Ordered List](ugp-7103.md)
 + Temp section {#anchor-id}
   + [AEM Bug](aembug.md)
   + [AEM Learn Bug](aemlearnbug.md)
