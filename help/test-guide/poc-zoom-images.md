@@ -36,12 +36,12 @@ If the workflow is part of a process involving multiple workflows, feel free to 
 - 010 – Export – Export delivery logs
 - 011 – Export – Export tracking logs
 
-![Zoom Image](/assets/img/home/home-laptop.png "Zoom Image"){.zoom-image .is-pulled-left}
+![Zoom Image](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/assets/chlimage_1-5.png?lang=en "Zoom Image"){.zoom-image .is-pulled-left}
 
-![Zoom Image](/assets/img/home/home-ipad.png"Zoom Image")
+![Zoom Image](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/assets/chlimage_1-5.png?lang=en "Zoom Image")
 {.zoom-image .is-pulled-left}
 
-![Zoom Image](/assets/img/courses/courses-marquee-left.png "Zoom Image") {.zoom-image .is-pulled-right}
+![Zoom Image](https://learning.adobe.com/certification/_jcr_content/root/responsivegrid/section_container/section-grid/section_container/section-grid/section_container/section-grid/image.coreimg.png/1561092081867/certification.png "Zoom Image") {.zoom-image .is-pulled-right}
 
 ![Zoom Image](https://cdn.experienceleague.adobe.com/thumb/portfolios.png "Zoom Image"){.zoom-image .is-pulled-left}
 
