@@ -34,6 +34,8 @@ In order to fancify a gizmo, you can combine the power of sprockets with the fun
 
 ## [!BADGE Beta]{type=Positive tooltip="Beta content"} More testing
 
+The above heading should have a "Beta content" badge.
+
 |Label|Badge|
 |---|---|
 |Unreleased|[!BADGE Unreleased]{type=Negative url="https://www.example.com"}|
@@ -48,7 +50,9 @@ In order to fancify a gizmo, you can combine the power of sprockets with the fun
 
 [!BADGE Relative link]{type=Negative url="beta.md newtab=true" tooltip="Open beta.md"}
 
-[!BADGE Open in new tab]{type=Negative url="https://www.adobe.com newtab=true" tooltip="Open beta.md"}
+[!BADGE Open in new tab]{type=Negative url="https://www.adobe.com newtab=true" tooltip="Open adobe.com"}
+
+[!BADGE Open in new tab]{type=Negative url="/help/test-guide/example-boxtext.md" tooltip="Open example boxtext"}
 
 ## SCCM Markdown
 
