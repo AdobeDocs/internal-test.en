@@ -36,6 +36,8 @@ In order to fancify a gizmo, you can combine the power of sprockets with the fun
 
 The above heading should have a "Beta content" badge.
 
+[!BADGE Open in new tab]{type=Negative url="https://www.adobe.com newtab=true" tooltip="Open adobe.com"}
+
 |Label|Badge|
 |---|---|
 |Unreleased|[!BADGE Unreleased]{type=Negative url="https://www.example.com"}|
@@ -49,8 +51,6 @@ The above heading should have a "Beta content" badge.
 ## Link testing
 
 [!BADGE Relative link]{type=Negative url="beta.md newtab=true" tooltip="Open beta.md"}
-
-[!BADGE Open in new tab]{type=Negative url="https://www.adobe.com newtab=true" tooltip="Open adobe.com"}
 
 [!BADGE Open in new tab]{type=Negative url="/help/test-guide/example-boxtext.md" tooltip="Open example boxtext"}
 
