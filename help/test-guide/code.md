@@ -4,7 +4,7 @@ description: This is the article overview.
 ---
 # Code Highlighting a line
 
-[!BADGE Unrealesed]{color=red}
+[!BADGE Unreleased]
 
 ## New options
 
