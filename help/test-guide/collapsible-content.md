@@ -5,7 +5,7 @@ exl-id: 3feebdc6-6ecd-4bc5-b3fe-d53e029cb66e
 ---
 # Collapsible content
 
-Let's start with a simple accordion.
+Let's start with a simple accordion. This is because it's usually better to start with simple examples and then add more complex examples after the simple ones, in sequential order of difficulty, starting with easier and progressing to more difficult.
 
 +++Click me
 Boo!
