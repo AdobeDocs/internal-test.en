@@ -3,7 +3,7 @@
 
 # Contribute article
 
-
+w00t
 
 We welcome contributions from our community as well as from Adobe employees from outside the documentation teams. 
 
