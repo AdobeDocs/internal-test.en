@@ -9,6 +9,7 @@ badgeInternal: label="Internal" url="internal.md" type="Informative" tooltip="Go
 + [Overview](toc-overview.md)
 + [Code](code.md)
 + [Badges](badge.md)
++ [Click to Zoom - UGP-7992](click-to-zoom.md)
 + [Code highlighting](code-highlighting.md)
 + [Note types](note-types.md)
 + [Tab test](tabs.md)
