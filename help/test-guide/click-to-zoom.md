@@ -39,3 +39,15 @@ Quisque gravida id diam quis fringilla. Morbi in laoreet purus. Curabitur quis d
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id sollicitudin mi, at bibendum arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vestibulum at lacus ut scelerisque. Ut et lacus dapibus, finibus diam vulputate, vulputate lorem. Phasellus mauris turpis, commodo et condimentum gravida, suscipit sed metus. Vestibulum eu tellus diam. Aenean iaculis quis leo at rutrum. Ut vel lorem justo. Cras ultricies ipsum sagittis elit viverra, vel ultrices velit dignissim. Sed cursus ut ligula maximus finibus.
 
 Quisque gravida id diam quis fringilla. Morbi in laoreet purus. Curabitur quis dapibus velit, at luctus risus. Sed tristique nulla et aliquet feugiat. Nam eget sollicitudin ligula, at consequat magna. Donec eget ullamcorper enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce magna dolor, vehicula ut iaculis eget, imperdiet id lacus. Donec ornare ex sed odio fermentum ultricies. Morbi velit tortor, lobortis eget mollis egestas, egestas at ligula. Nulla nec sem nec velit pharetra porttitor. Pellentesque congue, est et sollicitudin elementum, dolor arcu sollicitudin ex, non sagittis quam neque eu nunc. Nulla facilisi. Sed eget laoreet dolor. Sed magna augue, rhoncus eu ullamcorper et, egestas a nulla. Etiam congue congue nunc, et tincidunt metus porta ut.
+
+### Bob Small Image
+
+<img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Click to enlarge" width="30" class="modal-image">
+
+```html
+<img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Click to enlarge" width="30" class="modal-image">
+```
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id sollicitudin mi, at bibendum arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vestibulum at lacus ut scelerisque. Ut et lacus dapibus, finibus diam vulputate, vulputate lorem. Phasellus mauris turpis, commodo et condimentum gravida, suscipit sed metus. Vestibulum eu tellus diam. Aenean iaculis quis leo at rutrum. Ut vel lorem justo. Cras ultricies ipsum sagittis elit viverra, vel ultrices velit dignissim. Sed cursus ut ligula maximus finibus.
+
+Quisque gravida id diam quis fringilla. Morbi in laoreet purus. Curabitur quis dapibus velit, at luctus risus. Sed tristique nulla et aliquet feugiat. Nam eget sollicitudin ligula, at consequat magna. Donec eget ullamcorper enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce magna dolor, vehicula ut iaculis eget, imperdiet id lacus. Donec ornare ex sed odio fermentum ultricies. Morbi velit tortor, lobortis eget mollis egestas, egestas at ligula. Nulla nec sem nec velit pharetra porttitor. Pellentesque congue, est et sollicitudin elementum, dolor arcu sollicitudin ex, non sagittis quam neque eu nunc. Nulla facilisi. Sed eget laoreet dolor. Sed magna augue, rhoncus eu ullamcorper et, egestas a nulla. Etiam congue congue nunc, et tincidunt metus porta ut.
