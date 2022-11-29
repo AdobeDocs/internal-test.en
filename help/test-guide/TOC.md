@@ -32,6 +32,7 @@ badgeInternal: label="Internal" url="internal.md" type="Informative" tooltip="Go
 + [Table render test](table-render-test.md)
 + [New file](newfile.md)
 + [UGP 6547](ugp-6547.md)
++ [UGP 7819 - Mini Toc Scroll](ugp-7819.md)
 + [UGP 7381 file 1](ugp-7381-commerce-admin-b2b-install.md)
 + [UGP 7381 file 2](ugp-7381-commerce-merchant-install.md)
 + Temp section {#anchor-id}
