@@ -8,18 +8,34 @@ title: Connecting to the Snowflake Data Warehouse
 
 To access your Snowflake data warehouse, you'll need to navigate to the specific URL for your Snowflake account.  You can find this access link by logging into Marketo Measure and following the steps below to navigate to the Data Warehouse information page.
 
-1. In Marketo Measure, at the top of the page, Click **My Account** > **Settings**.
+1. ### Image click to zoom
 
-   !["Adobe Logo"](assets/adobe-logo-old.png) {.modal-image}
+<img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Adobe Logo" class="modal-image">
 
-1. On the left side menu, under Security, Click **Data Warehouse**.
+```html
+<img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Adobe Logo" class="modal-image">
+```
 
-   !["Adobe Logo"](assets/adobe-logo-old.png) {.modal-image}
+1. ### Image to zoom pulled left, click to zoom
 
-1. On this page, you'll find the link to your Snowflake data warehouse and your username.
+<img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Adobe Logo" class="modal-image is-4by5">
 
-   !["Adobe Logo"](assets/adobe-logo-old.png) {.modal-image column is-pulled-right}
+```html
+<img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Adobe Logo" class="modal-image column is-pulled-left">
+```
 
-   >[!NOTE]
-   >
-   >This is a read-only account that's available for your organization, not just an individual user. Any user within your organization that has access to Marketo Measure can use this account to log into the Snowflake Data Warehouse reader account.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id sollicitudin mi, at bibendum arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vestibulum at lacus ut scelerisque. Ut et lacus dapibus, finibus diam vulputate, vulputate lorem. Phasellus mauris turpis, commodo et condimentum gravida, suscipit sed metus. Vestibulum eu tellus diam. Aenean iaculis quis leo at rutrum. Ut vel lorem justo. Cras ultricies ipsum sagittis elit viverra, vel ultrices velit dignissim. Sed cursus ut ligula maximus finibus.
+
+Quisque gravida id diam quis fringilla. Morbi in laoreet purus. Curabitur quis dapibus velit, at luctus risus. Sed tristique nulla et aliquet feugiat. Nam eget sollicitudin ligula, at consequat magna. Donec eget ullamcorper enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce magna dolor, vehicula ut iaculis eget, imperdiet id lacus. Donec ornare ex sed odio fermentum ultricies. Morbi velit tortor, lobortis eget mollis egestas, egestas at ligula. Nulla nec sem nec velit pharetra porttitor. Pellentesque congue, est et sollicitudin elementum, dolor arcu sollicitudin ex, non sagittis quam neque eu nunc. Nulla facilisi. Sed eget laoreet dolor. Sed magna augue, rhoncus eu ullamcorper et, egestas a nulla. Etiam congue congue nunc, et tincidunt metus porta ut.
+
+1. ### Image to zoom pulled right, click to zoom
+
+<img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Adobe Logo" class="modal-image is-4by5">
+
+```html
+<img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Adobe Logo" class="modal-image column is-pulled-right">
+```
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id sollicitudin mi, at bibendum arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vestibulum at lacus ut scelerisque. Ut et lacus dapibus, finibus diam vulputate, vulputate lorem. Phasellus mauris turpis, commodo et condimentum gravida, suscipit sed metus. Vestibulum eu tellus diam. Aenean iaculis quis leo at rutrum. Ut vel lorem justo. Cras ultricies ipsum sagittis elit viverra, vel ultrices velit dignissim. Sed cursus ut ligula maximus finibus.
+
+Quisque gravida id diam quis fringilla. Morbi in laoreet purus. Curabitur quis dapibus velit, at luctus risus. Sed tristique nulla et aliquet feugiat. Nam eget sollicitudin ligula, at consequat magna. Donec eget ullamcorper enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce magna dolor, vehicula ut iaculis eget, imperdiet id lacus. Donec ornare ex sed odio fermentum ultricies. Morbi velit tortor, lobortis eget mollis egestas, egestas at ligula. Nulla nec sem nec velit pharetra porttitor. Pellentesque congue, est et sollicitudin elementum, dolor arcu sollicitudin ex, non sagittis quam neque eu nunc. Nulla facilisi. Sed eget laoreet dolor. Sed magna augue, rhoncus eu ullamcorper et, egestas a nulla. Etiam congue congue nunc, et tincidunt metus porta ut.
