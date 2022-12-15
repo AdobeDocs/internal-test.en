@@ -16,6 +16,14 @@ To access your Snowflake data warehouse, you'll need to navigate to the specific
 <img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Adobe Logo" class="modal-image">
 ```
 
+1. ### Image click to zoom (MARKDOWN)
+
+![Adobe Logo](assets/adobe-logo-old.png "Adobe Logo") {width="20" zoomable=yes}
+
+```html
+![Adobe Logo](assets/adobe-logo-old.png "Adobe Logo") {width="20" zoomable=yes}
+```
+
 1. ### Image to zoom pulled left, click to zoom
 
 <img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Adobe Logo" class="modal-image is-4by5">
