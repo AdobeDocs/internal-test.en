@@ -42,16 +42,24 @@ Quisque gravida id diam quis fringilla. Morbi in laoreet purus. Curabitur quis d
 
 ### Bob Small Image
 
+ORIGINAL
 <img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Click to enlarge" width="30" class="modal-image">
 
 ```html
 <img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Click to enlarge" width="30" class="modal-image">
 ```
 
+MARKDOWN ZOOMABLE
 ![Adobe Logo](assets/adobe-logo-old.png "Click to enlarge"){width="30" zoomable}
 
 ```markdown
 ![Adobe Logo](assets/adobe-logo-old.png "Click to enlarge"){width="30" zoomable}
+```
+
+MARKDOWN ZOOMABLE=N
+
+```markdown
+![Adobe Logo](assets/adobe-logo-old.png "Click to enlarge"){width="30" zoomable=n}
 ```
 
 ![Adobe Logo](assets/adobe-logo-old.png "Click to enlarge"){width="30" zoomable=n}
