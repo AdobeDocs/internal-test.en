@@ -46,3 +46,6 @@ If the workflow is part of a process involving multiple workflows, feel free to 
 ![Zoom Image](https://cdn.experienceleague.adobe.com/thumb/portfolios.png "Zoom Image"){.zoom-image .is-pulled-left}
 
 ![Zoom Image](assets/android1.png "Zoom Image"){.zoom-image .is-pulled-left}
+
+![Zoom Image](assets/android1.png "Zoom Image"){zoomable}
+![Zoom Image](assets/android1.png "Zoom Image"){zoomable="no"}
