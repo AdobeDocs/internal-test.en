@@ -50,10 +50,10 @@ ORIGINAL
 ```
 
 ORIGINAL SHIFTED
-<img src="/help/assets/adobe-logo-old.png" alt="Adobe Logo" title="Click to enlarge" width="30" class="modal-image">
+<img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Click to enlarge" width="30" class="modal-image">
 
 ```
-<img src="/help/assets/adobe-logo-old.png" alt="Adobe Logo" title="Click to enlarge" width="30" class="modal-image">
+<img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Click to enlarge" width="30" class="modal-image">
 ```
 
 MARKDOWN ZOOMABLE
