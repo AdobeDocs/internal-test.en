@@ -50,7 +50,7 @@ ORIGINAL
 ```
 
 ORIGINAL SHIFTED
-<img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Click to enlarge" width="30" class="modal-image">
+<img src="assets/adobe-logo-old.png" alt="Adobe Logo" width="30" title="Click to enlarge" class="modal-image">
 
 ```
 <img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Click to enlarge" width="30" class="modal-image">
