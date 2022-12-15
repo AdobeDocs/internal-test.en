@@ -49,6 +49,13 @@ ORIGINAL
 <img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Click to enlarge" width="30" class="modal-image">
 ```
 
+ORIGINAL SHIFTED
+<img src="/help/assets/adobe-logo-old.png" alt="Adobe Logo" title="Click to enlarge" width="30" class="modal-image">
+
+```
+<img src="/help/assets/adobe-logo-old.png" alt="Adobe Logo" title="Click to enlarge" width="30" class="modal-image">
+```
+
 MARKDOWN ZOOMABLE
 ![Adobe Logo](assets/adobe-logo-old.png "Click to enlarge"){width="30" zoomable}
 
