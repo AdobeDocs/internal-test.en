@@ -56,7 +56,7 @@ ORIGINAL SHIFTED
 <img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Click to enlarge" width="30" class="modal-image">
 ```
 
-MARKDOWN ZOOMABLE
+MARKDOWN ZOOMABLE BOOM
 ![Adobe Logo](assets/adobe-logo-old.png "Click to enlarge"){width="30" zoomable}
 
 ```markdown
