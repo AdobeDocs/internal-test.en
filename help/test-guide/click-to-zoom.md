@@ -30,7 +30,7 @@ title: Connecting to the Snowflake Data Warehouse
 
 {style="table-layout:fixed"}
 
-|  | Number | Colors |
+| | Number | Colors |
 |---|---|---|
 | Juanya | 17 | Green<br>Red<br>Blue |
 | Maria | 23 | Yellow<br>Brown |
