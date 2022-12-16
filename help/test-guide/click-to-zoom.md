@@ -4,6 +4,38 @@ title: Connecting to the Snowflake Data Warehouse
 ---
 # Connecting to the Snowflake Data Warehouse {#connecting-to-the-snowflake-data-warehouse}
 
+## Bob's zoomable image testing
+
+`![Dive image](assets/maui-trees.png "Diving in Maui"){width=100 zoomable}`
+
+**Plain**
+
+![Dive image](assets/maui-trees.png "Diving in Maui"){width=100 zoomable}
+
+**Note**
+
+>[!NOTE]
+>
+>Click the following image to see a diver:
+>
+>![Dive image](assets/maui-dive.jpg "Diving in Maui"){width=100 zoomable}
+
+**Table markdown image**
+
+|  | Number | Colors |
+|---|---|---|
+| Juanya | 17 | Green<br>Red<br>Blue |
+| Maria | 23 | Yellow<br>Brown |
+| Bob | 60 | See image<br>![Dive image](assets/maui-trees.png "Diving in Maui"){width=100 zoomable} |
+
+{style="table-layout:fixed"}
+
+|  | Number | Colors |
+|---|---|---|
+| Juanya | 17 | Green<br>Red<br>Blue |
+| Maria | 23 | Yellow<br>Brown |
+| Bob | 60 | See image<br><img src="assets/maui-trees.png" alt="Adobe Logo" title="Adobe Logo" class="modal-image"> |
+
 ## Snowflake Access Link {#snowflake-access-link}
 
 To access your Snowflake data warehouse, you'll need to navigate to the specific URL for your Snowflake account.  You can find this access link by logging into Marketo Measure and following the steps below to navigate to the Data Warehouse information page.
