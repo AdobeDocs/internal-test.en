@@ -36,6 +36,38 @@ title: Connecting to the Snowflake Data Warehouse
 | Maria | 23 | Yellow<br>Brown |
 | Bob | 60 | See image<br><img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Adobe Logo" class="modal-image"> |
 
+**Tabs**
+
+>[!BEGINTABS]
+
+>[!TAB iOS]
+
+This content appears in the iOS tab.
+
+>[!TAB Android]
+
+This content appears in the Android tab.
+
+![Dive image](assets/adobe-logo-old.png "Diving in Maui"){width=100 zoomable}
+
+>[!TAB Windows]
+
+This content appears in the Windows tab.
+
+>[!TAB MacOS]
+
+>[!ENDTABS]
+
+**Collapsible content**
+
++++click to expand
+
+This is an image.
+
+![Dive image](assets/adobe-logo-old.png "Diving in Maui"){width=100 zoomable}
+
++++
+
 ### Heading with zoomable image ![Dive image](assets/adobe-logo-old.png "Adobe icon"){width="50" align="right" zoomable}
 
 See the above right-aligned image.
