@@ -4,7 +4,7 @@ title: Connecting to the Snowflake Data Warehouse
 ---
 # Connecting to the Snowflake Data Warehouse {#connecting-to-the-snowflake-data-warehouse}
 
-## Bob's zoomable image testing
+## Bob zoomable image testing
 
 `![Dive image](assets/adobe-logo-old.png "Diving in Maui"){width=100 zoomable}`
 
@@ -35,6 +35,10 @@ title: Connecting to the Snowflake Data Warehouse
 | Juanya | 17 | Green<br>Red<br>Blue |
 | Maria | 23 | Yellow<br>Brown |
 | Bob | 60 | See image<br><img src="assets/adobe-logo-old.png" alt="Adobe Logo" title="Adobe Logo" class="modal-image"> |
+
+### Heading with zoomable image ![Dive image](assets/adobe-logo-old.png "Adobe icon"){width="50" align="right" zoomable}
+
+See the above right-aligned image.
 
 ## Snowflake Access Link {#snowflake-access-link}
 
