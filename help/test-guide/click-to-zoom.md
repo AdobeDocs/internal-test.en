@@ -6,7 +6,7 @@ title: Connecting to the Snowflake Data Warehouse
 
 ## Bob's zoomable image testing
 
-`![Dive image](assets/maui-trees.png "Diving in Maui"){width=100 zoomable}`
+`![Dive image](assets/maui-dive.jpg "Diving in Maui"){width=100 zoomable}`
 
 **Plain**
 
@@ -34,7 +34,7 @@ title: Connecting to the Snowflake Data Warehouse
 |---|---|---|
 | Juanya | 17 | Green<br>Red<br>Blue |
 | Maria | 23 | Yellow<br>Brown |
-| Bob | 60 | See image<br><img src="assets/assets/maui-dive.jpg" alt="Adobe Logo" title="Adobe Logo" class="modal-image"> |
+| Bob | 60 | See image<br><img src="assets/maui-dive.jpg" alt="Adobe Logo" title="Adobe Logo" class="modal-image"> |
 
 ## Snowflake Access Link {#snowflake-access-link}
 
