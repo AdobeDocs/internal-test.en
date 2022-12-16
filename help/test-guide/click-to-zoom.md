@@ -10,7 +10,7 @@ title: Connecting to the Snowflake Data Warehouse
 
 **Plain**
 
-![Dive image](assets/maui-trees.png "Diving in Maui"){width=100 zoomable}
+![Dive image](assets/assets/maui-dive.jpg "Diving in Maui"){width=100 zoomable}
 
 **Note**
 
@@ -26,7 +26,7 @@ title: Connecting to the Snowflake Data Warehouse
 |---|---|---|
 | Juanya | 17 | Green<br>Red<br>Blue |
 | Maria | 23 | Yellow<br>Brown |
-| Bob | 60 | See image<br>![Dive image](assets/maui-trees.png "Diving in Maui"){width=100 zoomable} |
+| Bob | 60 | See image<br>![Dive image](assets/maui-dive.jpg "Diving in Maui"){width=100 zoomable} |
 
 {style="table-layout:fixed"}
 
@@ -34,7 +34,7 @@ title: Connecting to the Snowflake Data Warehouse
 |---|---|---|
 | Juanya | 17 | Green<br>Red<br>Blue |
 | Maria | 23 | Yellow<br>Brown |
-| Bob | 60 | See image<br><img src="assets/maui-trees.png" alt="Adobe Logo" title="Adobe Logo" class="modal-image"> |
+| Bob | 60 | See image<br><img src="assets/assets/maui-dive.jpg" alt="Adobe Logo" title="Adobe Logo" class="modal-image"> |
 
 ## Snowflake Access Link {#snowflake-access-link}
 
