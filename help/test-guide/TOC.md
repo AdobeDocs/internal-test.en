@@ -1,7 +1,7 @@
 ---
 user-guide-title: Template title
 solution: Experience Cloud
-badgeInternal: label="Internal" url="internal.md" type="Informative" tooltip="Go to Internal overview"
+badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informative" tooltip="Go to Internal overview"
 ---
 
 # Template title {#test}
@@ -20,9 +20,9 @@ badgeInternal: label="Internal" url="internal.md" type="Informative" tooltip="Go
 + [Highlight](highlight.md)
 + [Workfront render problem](workfront-render-problem.md)
 + [Note test for Keith](note-test.md)
-+ [Internal](internal.md)
 + [Snippets](snippets.md)
 + [Bob's Snippets](snippets-bob.md)
++ [Internal](internal.md)
 + [Beta](beta.md)
 + [POC Zoom Images](poc-zoom-images.md)
 + [Collapsible content](collapsible-content.md)
@@ -35,6 +35,11 @@ badgeInternal: label="Internal" url="internal.md" type="Informative" tooltip="Go
 + [UGP 7819 - Mini Toc Scroll](ugp-7819.md)
 + [UGP 7381 file 1](ugp-7381-commerce-admin-b2b-install.md)
 + [UGP 7381 file 2](ugp-7381-commerce-merchant-install.md)
++ Authoring Guide Examples {#auth-guide}
+  + [Note test](authoring-guide/note-test.md)
+  + [Markdown syntax](authoring-guide/syntax-style-guide.md)
+  + [Table breaks](authoring-guide/table-breaks.md)
+  + [Tables](authoring-guide/tables.md)
 + Temp section {#anchor-id}
   + [AEM Bug](aembug.md)
   + [AEM Learn Bug](aemlearnbug.md)
