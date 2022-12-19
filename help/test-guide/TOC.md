@@ -20,7 +20,6 @@ badgeInternal: label="Internal" url="internal.md" type="Informative" tooltip="Go
 + [Highlight](highlight.md)
 + [Workfront render problem](workfront-render-problem.md)
 + [Note test for Keith](note-test.md)
-+ [Internal](internal.md)
 + [Snippets](snippets.md)
 + [Bob's Snippets](snippets-bob.md)
 + [Beta](beta.md)
