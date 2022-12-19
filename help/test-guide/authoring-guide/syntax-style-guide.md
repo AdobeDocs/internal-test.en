@@ -469,12 +469,12 @@ For shared images, you can place the images in a root assets folder and then use
 Use syntax such as the following to change the default image width or center or right-align the image within the page view or table cell.
 
 ```
-![Dive image alt text](/help/test-guide/assets/maui-dive.jpg "Hover text - Maui dive width is 300 pixels and centered"){width="300" align="center"}
+![Dive image alt text](assets/maui-dive.jpg "Hover text - Maui dive width is 300 pixels and centered"){width="300" align="center"}
 ```
 
 Rendered:
 
-![Dive image alt text](/help/test-guide/assets/maui-dive.jpg "Hover text - Maui dive width is 300 pixels and centered"){width="300" align="center"}
+![Dive image alt text](assets/maui-dive.jpg "Hover text - Maui dive width is 300 pixels and centered"){width="300" align="center"}
 
 * For large images, we recommend that you create images large enough to be scaled down to fit within the page width&mdash;at least 640 pixels wide. Recommended width is 1500 pixels. There is no need to create images larger than 2500 pixels or 500 kilobytes. The maximum file size for images is 100 MB.
 * For small images, create images using the desired width in pixels, or use the width parameter, such as `{width="250"}` (pixels) or `{width="50%"}` (percentage of view area, not original image size). Images are scaled proportionally. Note that images can be scaled up or down, so be careful about pixelation.

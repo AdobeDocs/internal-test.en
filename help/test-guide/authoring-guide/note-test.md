@@ -21,8 +21,6 @@ exl-id: 3462a9fe-e898-4d35-973a-118cd6bf98eb
 >
 >* The built-in statuses Planning, Current, and Complete. You can update their names, edit their colors, and lock or unlock them, but they can't be deleted.
 >* Statuses that are in a pending state of approval for at least one object in your system.
->
->  For instructions on deleting a group status, see [Delete a group status](share-example.md).
 
 **Second**
 
@@ -35,8 +33,6 @@ exl-id: 3462a9fe-e898-4d35-973a-118cd6bf98eb
 >  This is in between
 >
 >* Statuses that are in a pending state of approval for at least one object in your system.
->
->  For instructions on deleting a group status, see [Delete a group status](share-example.md).
 
 ## Snowflake Access Link {#snowflake-access-link}
 

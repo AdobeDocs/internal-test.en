@@ -165,7 +165,7 @@ If you want to specify how a native markdown table is rendered, add one of these
 * `{style="table-layout:auto"}`
 * `{style="table-layout:fixed"}`
 
-![table-rendering](/help/main-guide/assets/table-render.png)
+![table-rendering](assets/table-render.png)
 
 ### Editing HTML tables
 
@@ -228,31 +228,31 @@ Use `fixed` for HTML tables that require balanced images that become unbalanced 
 <table style="table-layout:auto">
 <tr>
   <td>
-    <a href="git-workflow-adobe-leads.md">
+    <a href="table-breaks.md">
     <img alt="Lead" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="git-workflow-adobe-leads.md"><strong>Workflow for Adobe leads</strong></a>
+    <a href="table-breaks.md"><strong>Workflow for Adobe leads</strong></a>
     </div>
     <em>Main editing workflow for lead writers.</em>
     <br>
   </td>
   <td>
-    <a href="git-workflow-infrequent-user.md">
+    <a href="syntax-style-guide.md">
       <img alt="Infrequent" src="assets/infrequent.png">
     </a>
     <div>
-    <a href="git-workflow-infrequent-user.md"><strong>Workflow for Infrequent Users</strong></a>
+    <a href="syntax-style-guide.md"><strong>Workflow for Infrequent Users</strong></a>
     </div>
     <em>Not a lead writer? Learn the easiest ways to make contributions. Not a lead writer? Learn the easiest ways to make contributions. Not a lead writer? Learn the easiest ways to make contributions. Not a lead writer? Learn the easiest ways to make contributions. Not a lead writer? Learn the easiest ways to make contributions. Not a lead writer? Learn the easiest ways to make contributions.</em>
     <br>
   </td>
   <td>
-    <a href="validation.md">
+    <a href="note-test.md">
       <img alt="Validation" src="assets/validation.png">
     </a>
     <div>
-    <a href="validation.md"><strong>Validation</strong></a>
+    <a href="note-test.md"><strong>Validation</strong></a>
     </div>
     <em>Learn to resolve validation errors.</em>
     <br>
@@ -265,31 +265,31 @@ Use `fixed` for HTML tables that require balanced images that become unbalanced 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="git-workflow-adobe-leads.md">
+    <a href="table-breaks.md">
     <img alt="Lead" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="git-workflow-adobe-leads.md"><strong>Workflow for Adobe leads</strong></a>
+    <a href="table-breaks.md"><strong>Workflow for Adobe leads</strong></a>
     </div>
     <em>Main editing workflow for lead writers.</em>
     <br>
   </td>
   <td>
-    <a href="git-workflow-infrequent-user.md">
+    <a href="syntax-style-guide.md">
       <img alt="Infrequent" src="assets/infrequent.png">
     </a>
     <div>
-    <a href="git-workflow-infrequent-user.md"><strong>Workflow for Infrequent Users</strong></a>
+    <a href="syntax-style-guide.md"><strong>Workflow for Infrequent Users</strong></a>
     </div>
     <em>Not a lead writer? Learn the easiest ways to make contributions. Not a lead writer? Learn the easiest ways to make contributions. Not a lead writer? Learn the easiest ways to make contributions. Not a lead writer? Learn the easiest ways to make contributions. Not a lead writer? Learn the easiest ways to make contributions. Not a lead writer? Learn the easiest ways to make contributions.</em>
     <br>
   </td>
   <td>
-    <a href="validation.md">
+    <a href="note-test.md">
       <img alt="Validation" src="assets/validation.png">
     </a>
     <div>
-    <a href="validation.md"><strong>Validation</strong></a>
+    <a href="note-test.md"><strong>Validation</strong></a>
     </div>
     <em>Learn to resolve validation errors.</em>
     <br>
