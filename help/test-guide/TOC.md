@@ -1,7 +1,7 @@
 ---
 user-guide-title: Template title
 solution: Experience Cloud
-badgeInternal: label="Internal" url="internal.md" type="Informative" tooltip="Go to Internal overview"
+badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informative" tooltip="Go to Internal overview"
 ---
 
 # Template title {#test}
@@ -22,6 +22,7 @@ badgeInternal: label="Internal" url="internal.md" type="Informative" tooltip="Go
 + [Note test for Keith](note-test.md)
 + [Snippets](snippets.md)
 + [Bob's Snippets](snippets-bob.md)
++ [Internal](internal.md)
 + [Beta](beta.md)
 + [POC Zoom Images](poc-zoom-images.md)
 + [Collapsible content](collapsible-content.md)
