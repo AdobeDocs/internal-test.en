@@ -8,8 +8,6 @@ exl-id: 1ffb1672-18cd-42c2-a02a-0529e759ec6c
 
 This page illustrates the markdown componentry for Digital Experience Technical Documentation Authoring using the markdown (.md) format. This page includes details for Adobe employees.
 
-* You can [view the quick cheat sheet](cheatsheet.md)
-
 <!--
 * You can [view a basic sample file](sample.md) or [view a sample file with advanced syntax examples](sample-full.md)
 -->
@@ -277,7 +275,6 @@ This is text inside a collapsible section.
 * You can add headings inside collapsible sections, but it's not recommended.
 * [Accordions Are Not Always the Answer for Complex Content on Desktops](https://www.nngroup.com/articles/accordions-complex-content/)
 * One historical drawback of collapsible sections is that **Find in Page** (Ctrl/Cmd+F) ignores collapsed text. While that's still true in Safari, it's no longer true in Chrome; Find in Page detects collapsed text in Chrome.
-* [Collapsible test file](/help/test-guide/collapsible-content.md)
 * Example of a [maintenance updates](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) page using collapsible sections.
 
 ## Comments and Remarks
@@ -318,8 +315,6 @@ Authors can work with product teams to add help popovers in the Experience Cloud
 >abstract="Select the XDM schema attributes that all exported profiles should include. Profiles without the mandatory key are not exported to the destination. Not selecting a mandatory key exports all qualified profiles regardless of their attributes."
 >additional-url="http://www.adobe.com/go/destinations-mandatory-attributes-en" text="Learn more in documentation"
 ```
-
-See [Contextual Help Popovers](contextual-help-popovers.md).
 
 ## Definition Lists
 
@@ -394,7 +389,7 @@ Maximum character count for headings: 69 characters (English) / 120 characters (
 * Include a blank line *before* and *after* each heading.
 * If a heading includes numerals, specify an explicit heading ID that does not begin with a number, such as `## Release notes for 2016 {#release-notes-2016}`.
 * We recommend only 3 heading levels. Levels 4 and beyond are not rendering properly at this time.
-* Headings are displayed in the right nav so that users can click to jump to a section. By default, two levels of headings appear in the right nav. If you want to change the number of levels, use `mini-toc-levels` metadata, such as `mini-toc-levels: 3`. See [Using metadata](metadata.md).
+* Headings are displayed in the right nav so that users can click to jump to a section. By default, two levels of headings appear in the right nav. If you want to change the number of levels, use `mini-toc-levels` metadata, such as `mini-toc-levels: 3`. 
 
 **Heading IDs**
 
@@ -569,8 +564,6 @@ The advantage to this type of link is that it needs to account for only the targ
 /help/using/docile-rules/introduction.md
 ```
 
-To learn more about adding root links, see [Linking tips](linking.md)
-
 **Deep linking**
 
 To link to a heading within an article, the target heading must have an explicit heading ID (also called an "anchor ID"). Example:
@@ -593,10 +586,6 @@ Example:
 
 `[See What's new](whats-new.md){target="_blank"}`
 
-Rendered:
-
-[See What's new](whats-new.md){target="_blank"}
-
 ## Metadata
 
 Add metadata to the top of the markdown file. The next line after the metadata line (and blank line) MUST be the article title (# Title).
@@ -610,13 +599,9 @@ description: This is the article description used for search optimization. Use c
 # Article title
 ```
 
-For a list of required and optional metadata, see [Metadata](metadata.md).
-
 ## Localization tags: UICONTROL, DNL, and DONOTLOCALIZE
 
 All of our Markdown help content is localized using machine translation initially. If the help has never been localized, then we keep the machine translation. However, if the help content has been localized in the past, then the machine translated content will act as a placeholder while the content is in the process of human translation.
-
-See [Localization best practices - UICONTROL and DNL](localize.md) for instructions on these tags.
 
 ## More Like This
 
@@ -738,8 +723,6 @@ New supported note types:
 >This is a Success note. EXL only.
 
 ## Numbered Lists and Bullet Lists {#lists}
-
-For editorial guidance, see [Steps and lists](steps.md#steps)
 
 To create numbered lists, begin a line with `1.` or `1)`, but pick one method and use it consistently within the article. You don't need to specify the numbers. GitHub does that for you.
 
@@ -880,8 +863,6 @@ Reference to H2 in snippets.md file: `{{id-name}}`
 
 Reference to include file: `{{$include /help/_includes/filename.md}}`
 
-For details, see [Includes and snippets](includes.md)
-
 ## Tables
 
 Tables can be problematic in Markdown. When tables are migrated from the previous authoring system, simple tables (one line per cell) are formatted as native Markdown tables (preferred). More advanced tables are formatted as HTML.
@@ -959,8 +940,6 @@ Workaround with manual bullets.
 
 
 ## Tabs
-
-[AEP Example](/help/test-guide/tabs-aep-sdk.md)
 
 A tab is a clickable area at the top of a section that shows different content. When a tab is clicked, the tab's contents are shown, and the contents of other tabs is hidden. 
 
@@ -1054,8 +1033,6 @@ As a general rule, use `<span class="preview">` to highlight a paragraph or text
 
 Videos won't natively render in Markdown. To display a video inline, use the component indicator `[!VIDEO]` and then the url.
 
-Use URLs for uploaded videos. We do not support direct links to video files. For details on uploading videos, see [Uploading Videos to Adobe TV.](video.md#adobetv)
-
 **Syntax**
 
 ```
@@ -1094,10 +1071,6 @@ Use the Markdown block quote ( `>` ) at the beginning of every line to tie toget
 If you need to use subcomponents within components, add an extra level of block quotes (`>  >`) for that subcomponent section. For example, a NOTE within a DONOTLOCALIZE section should begin with `>  >`.
 
 In some cases, we need to support specific settings for Markdown elements such as headings. If you need to change default settings, add the parameters in french braces `{# }` after the component.
-
->[!TIP]
->
->See [Creating keyboard shortcuts for markdown extensions](authoring-best-practices.md#shortcuts-extensions)
 
 ### Blank lines
 
