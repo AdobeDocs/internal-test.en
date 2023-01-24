@@ -8,7 +8,7 @@ description: Workfront rendering problem
 <p data-mc-conditions="QuicksilverOrClassic.Draft mode">(NOTE: Alina: this article might need to be split in its sections. Tony asked that numbers and dates should be in separate articles (??))</p>
 -->
 
-The standard interface builder provides a great range of flexibility when creating reporting elements to meet the needs in your organization.
+The standard interface builder provides a great range of flexibility when creating reporting elements to meet the needs in your organization. 
 
 You can apply conditional formatting in a view by using the standard interface.  
 For more information about applying conditional formatting to a view, see deleted link.
