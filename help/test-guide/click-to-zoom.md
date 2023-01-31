@@ -8,7 +8,7 @@ title: Connecting to the Snowflake Data Warehouse
 
 |Type|Image|
 |---|---|
-|Front Dive|![Diving image](/help/test-guide/assets/maui-dive.jpg "Diving in Maui"){width="50" zoomable="yes"}|
+|Front Dive|![Diving image](assets/adobe-logo-old.png "Diving in Maui"){width="50" zoomable="yes"}|
 
 ## Bob zoomable image testing
 
