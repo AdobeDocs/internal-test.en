@@ -674,7 +674,11 @@ To enable these permissions, add the following lines to your `AndroidManifest.xm
 
 ## Watch the Video
 
+Youtube videos not supported, so I commented this out to test other things. -Bob
+
+```
 >[!VIDEO](https://www.youtube.com/watch?v=K99NwR6Y08E)
+```
 
 ## Additional information
 
