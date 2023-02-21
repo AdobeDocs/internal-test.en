@@ -7,7 +7,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
 # Template title {#test}
 
 + [Overview](toc-overview.md)
-+ [Testing](2.4.5.md)
++ [Testing](2-4-5.md)
 + [Code](code.md)
 + [Badges](badge.md)
 + [Click to Zoom - UGP-7992](click-to-zoom.md)
