@@ -46,9 +46,13 @@ This content appears in the iOS tab.
 
 >[!TAB Android]
 
+## Android to do items
+
 This content appears in the Android tab.
 
 >[!TAB Windows]
+
+## Window to do items
 
 This content appears in the Windows tab.
 
