@@ -11,7 +11,7 @@ In order to fancify a gizmo, you can combine the power of sprockets with the fun
 ## Badge with URL that opens in new window
 
 
-[!BADGE Beta]{type=Informative url="https://www.example.com" target="_blank" tooltip="Open in new window"}
+[!BADGE Beta]{type=Informative url="https://www.example.com target=_blank" tooltip="Open in new window"}
 
 ## Examples
 
