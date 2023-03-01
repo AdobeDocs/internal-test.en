@@ -8,6 +8,11 @@ badge3: label="Premium" url="https://www.example.com" type="Neutral"
 
 In order to fancify a gizmo, you can combine the power of sprockets with the functionality of widgets.
 
+## Badge with URL that opens in new window
+
+
+[!BADGE Beta]{type=Informative url="https://www.example.com" target="_blank" tooltip="Open in new window"}
+
 ## Examples
 
 ```
