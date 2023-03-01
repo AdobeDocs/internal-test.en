@@ -1,32 +1,29 @@
 ---
-title: Overview
-description: This is the article overview.
+product: campaign
+title: Campaign Tomcat configuration
+description: Campaign Tomcat configuration
+audience: installation
+content-type: reference
+topic-tags: initial-configuration
+exl-id: a2126458-2ae5-47c6-ad13-925f0e067ecf
 ---
-# Code Highlighting a line
+# Configure Apache Tomcat {#configuring-tomcat}
 
-[!BADGE Unreleased]
+1. Write a JavaScript function at the beginning of the content.
 
-## New options
+    ```
+    <%@ value object='endScript' %>
+    ```
+2. Display the article by calling the function.
 
-```python {line-numbers="true" start-line="20" highlight="24-27,31"}```
 
-* `line-numbers="true"`: Turn on line numbers
-* `start-line="20"`: Start line numbers with 20 (not 1).  Can be negative: `-5`
-* `highlight="24-27,31"`: High light lines 24, 25, 26, 27, 31 based on `start-line` offset.
-
-```python {line-numbers="true" start-line="20" highlight="24-27,31"}
-foo = 12
-
-print(f'foo is {foo}'
-
-def fun():
-    # This is a function definition
-
-    print('Hello from Fun!')
-
-# This is global again
-
-foo = foo + 12
-
-print(f'foo is now {foo}.')
 ```
+fluff
+```
+
+foo
+
+<div id="whats-new-section">
+## What's new
+
+Recently added [!DNL Marketo Engage] tutorials:
