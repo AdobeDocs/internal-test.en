@@ -1,7 +1,9 @@
 ---
 title: '[!DNL Product Recommendations] Release Notes'
 description: The latest release information for [!DNL Product Recommendations] from Adobe Commerce.
-sub-solution: Adobe Commerce, Marketing
+solution: Experience Manager
+version: 6.4
+sub-solution: Sites
 ---
 # [!DNL Product Recommendations] Release Notes - UGP-8668
 
