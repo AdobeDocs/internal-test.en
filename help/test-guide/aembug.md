@@ -59,7 +59,7 @@ For the standard reports delivered with AEM:
 
 >[!NOTE]
 >
->The tutorial [Creating Your Own Report - An Example](#creating-your-own-report-an-example) also shows how many of the principles below can be used.
+>The tutorial [Creating Your Own Report - An Example](#creating-your-own-report-an-example){data-name="body"} also shows how many of the principles below can be used.
 >
 >You can also refer to the standard reports to see other examples of implementation.
 
