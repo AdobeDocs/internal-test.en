@@ -27,7 +27,7 @@ foo
 
 ## What's new
 
-Of the [television guide](https://www.example.com?foo=bar){data-name="body"}
+Of the [data-name television guide](https://www.example.com?foo=bar){data-name="body"}
 
 Recently added [!DNL Marketo Engage] tutorials:
 
@@ -35,4 +35,4 @@ Recently added [!DNL Marketo Engage] tutorials:
 
 Of the [television guide](https://www.example.com?foo=bar)
 
-[This is a test](./aembug.md){_target=blank}
+[This is a test new tab](./aembug.md){_target="blank"}
