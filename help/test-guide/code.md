@@ -34,3 +34,5 @@ Recently added [!DNL Marketo Engage] tutorials:
 [This is a test](./aembug.md)
 
 Of the [television guide](https://www.example.com?foo=bar)
+
+[This is a test](./aembug.md){_target=blank}
