@@ -1,7 +1,7 @@
 ---
 title: '[!DNL MTOC Switch] Release Notes'
 description: The latest release information for [!DNL Product Recommendations] from Adobe Commerce.
-mini-toc-enabled: false
+mini-toc-levels: 0
 ---
 # [!DNL MTOC Switch] Release Notes
 
@@ -10,7 +10,7 @@ Morbi condimentum, nisl non auctor aliquam, ex diam ornare odio, vel rutrum est 
 1. Write a JavaScript function at the beginning of the content.
 
     ```
-    <meta name="mini-toc-enabled" content="false">
+    <meta name="mini-toc-levels" content="0">
     ```
 
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit: `magento/product-recommendations`
