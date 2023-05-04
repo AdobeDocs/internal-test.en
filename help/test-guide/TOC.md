@@ -38,6 +38,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
 + [UGP 7819 - Mini Toc Scroll](ugp-7819.md)
 + [UGP 7381 file 1](ugp-7381-commerce-admin-b2b-install.md)
 + [UGP 7381 file 2](ugp-7381-commerce-merchant-install.md)
++ [UGP 8977 - mtoc -switch](ugp-8977-mtoc-switch.md)
 + Authoring Guide Examples {#auth-guide}
   + [Note test](authoring-guide/note-test.md)
   + [Markdown syntax](authoring-guide/syntax-style-guide.md)
