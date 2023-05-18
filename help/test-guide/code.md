@@ -9,6 +9,14 @@ exl-id: a2126458-2ae5-47c6-ad13-925f0e067ecf
 ---
 # Configure Apache Tomcat {#configuring-tomcat}
 
+```
+[![image](assets/core-services_96.png)](https://www.adobe.com)
+```
+
+```
+[![image](assets&#x2F;core-services_96.png)](https://www.adobe.com)
+```
+
 1. Write a JavaScript function at the beginning of the content.
 
     ```
