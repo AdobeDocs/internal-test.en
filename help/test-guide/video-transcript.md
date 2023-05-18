@@ -4,6 +4,8 @@ description: Testing video transcripts
 ---
 # Video Transcripts
 
+>[!VIDEO](https://video.tv.adobe.com/v/30601)
+
 Testing video transcripts
 
 >[!VIDEO](https://video.tv.adobe.com/v/30601){transcript=true}
