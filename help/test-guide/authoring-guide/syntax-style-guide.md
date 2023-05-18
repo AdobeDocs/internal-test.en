@@ -439,7 +439,7 @@ For various reasons, including security and accessibility, we limit the HTML syn
 <em> (emphasis, italics)
 <pre> (codeblock)
 <code>
-<​codeblock>
+<codeblock>
 ```
 
 <!--
