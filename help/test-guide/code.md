@@ -13,9 +13,9 @@ exl-id: a2126458-2ae5-47c6-ad13-925f0e067ecf
 [![image](assets/core-services_96.png)](https://www.adobe.com)
 ```
 
-```
+<pre><code>
 [![image](assets&#x2F;core-services_96.png)](https://www.adobe.com)
-```
+</code></pre>
 
 1. Write a JavaScript function at the beginning of the content.
 
