@@ -22,6 +22,7 @@ exl-id: a2126458-2ae5-47c6-ad13-925f0e067ecf
     ```
     <%@ value object='endScript' %>
     ```
+
 2. Display the article by calling the function.
 
 
