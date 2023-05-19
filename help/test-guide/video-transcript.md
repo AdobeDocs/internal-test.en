@@ -13,6 +13,6 @@ Testing video transcripts
 No with override
 
 
->[!VIDEO](https://video.tv.adobe.com/v/30601){transcript=true file=/help/test-guide/video-transcript-override.txt)
+>[!VIDEO](https://video.tv.adobe.com/v/30601){transcript=true file=/help/test-guide/video-transcript-override.txt}
 
 ta da
