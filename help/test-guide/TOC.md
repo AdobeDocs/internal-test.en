@@ -8,7 +8,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
 
 + [Overview](toc-overview.md)
 + [Video Transcripts](video-transcript.md)
-+ [Auto Video Transcripts](video-transcript.md)
++ [Auto Video Transcripts](video-transcript-basic.md)
 + [Testing](2-4-5.md)
 + [UGP 8668 collapse headings](ugp-8668.md)
 + [Code](code.md)
