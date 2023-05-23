@@ -4,7 +4,7 @@ description: Testing video transcripts
 ---
 # Video Transcripts
 
-## Basic Video
+## Basic Video - No transcript
 
 >[!VIDEO](https://video.tv.adobe.com/v/30601)
 
