@@ -17,8 +17,3 @@ description: Testing video transcripts
 
 >[!VIDEO](https://video.tv.adobe.com/v/30602){transcript=true}
 
-## Video with Transcripts from repo local file
-
->[!VIDEO](https://video.tv.adobe.com/v/30601){transcript=true file=/help/test-guide/video-transcript-override.txt}
-
-ta da
