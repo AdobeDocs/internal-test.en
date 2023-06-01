@@ -177,6 +177,6 @@ Use Jira to create Experience League issues and link them to the docs migration 
 
 Click the + sign to add an issue to the Docs Migration epic.
 
-![testing](/help/main-guide/assets/jira-plus.png)
+![testing](/help/test-guide/assets/jira-plus.png)
 
 Here's the [ExL Backlog](https://jira.corp.adobe.com/secure/RapidBoard.jspa?rapidView=22918&view=planning&selectedEpic=UGP-1245) for reference.
