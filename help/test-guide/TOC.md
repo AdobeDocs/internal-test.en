@@ -6,7 +6,6 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
 
 # Template title {#test}
 
-+ [UGP-9238](ugp-9238.md)
 + [Overview](toc-overview.md)
 + [Video Transcripts](video-transcript.md)
 + [Auto Video Transcripts](video-transcript-basic.md)
