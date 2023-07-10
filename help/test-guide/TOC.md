@@ -7,8 +7,6 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
 # Template title {#test}
 
 + [Overview](toc-overview.md)
-+ [Video Transcripts](video-transcript.md)
-+ [Auto Video Transcripts](video-transcript-basic.md)
 + [Testing](2-4-5.md)
 + [UGP 8668 collapse headings](ugp-8668.md)
 + [Code](code.md)
@@ -59,6 +57,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
   + [Data Workbench Bug](dwbbug.md)
 
 <!--
++ [Auto Video Transcripts](video-transcript-basic.md)
 
 
 Articles must be added to this TOC file in order to render.
