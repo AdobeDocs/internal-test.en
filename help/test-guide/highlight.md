@@ -29,7 +29,7 @@ Ok, so this sentence is not part of highlighting.
 
 Highlighting begins here.
 
-![image](assets/adobe—logo.png)
+![image](assets/adobe-logo-old.png)
 
 That was an image. Let's try a table.
 
