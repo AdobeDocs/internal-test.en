@@ -11,10 +11,10 @@ This has span only, not div, which renders badly.
 
 >[!NOTE]
 >
->Do the following<span class="preview"> in April:
+>Do the following<span class="preview"> in April</span>:
 >
->* Remember to bring your badge
->* Remember to bring your credit card</span>
+>* Remember to bring your badge <span class="preview">and lanyard</span>
+>* Remember to bring your credit card
 >* Remember to bring your swim suit
 
 ## Paragraph and sentence
