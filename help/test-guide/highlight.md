@@ -7,6 +7,16 @@ description: Workfront 기능 및 설정을 더 잘 이해할 수 있도록 설�
 
 This has span only, not div, which renders badly.
 
+## Highlight in note (span)
+
+>[!NOTE]
+>
+>Do the following<span class="preview"> in April:
+>
+>* Remember to bring your badge
+>* Remember to bring your credit card</span>
+>* Remember to bring your swim suit
+
 ## Paragraph and sentence
 
 <span class="preview">This entire paragraph should be highlighted. The way we currently highlight text is to add tags. This word is **bold**. And this is just the last sentence.</span>
@@ -100,7 +110,7 @@ Highlighting ends above this line
   </tbody> 
 </table>
 
-## Highlighting in notes
+## Highlighting in notes (div)
 
 >[!CAUTION]
 >
