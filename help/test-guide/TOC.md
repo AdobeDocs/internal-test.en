@@ -55,9 +55,9 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
   + [AEM Bug](aembug.md)
   + [AEM Learn Bug](aemlearnbug.md)
   + [Data Workbench Bug](dwbbug.md)
++ [Auto Video Transcripts](video-transcript-basic.md)
 
 <!--
-+ [Auto Video Transcripts](video-transcript-basic.md)
 
 
 Articles must be added to this TOC file in order to render.
