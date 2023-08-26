@@ -7,6 +7,12 @@ auto-video-transcripts: true
 
 ## Basic Video
 
+This is a test:
+
+```
+${data}
+```
+
 >[!VIDEO](https://video.tv.adobe.com/v/30601)
 
 ## Basic Video with Transcript from transcripts repo (source)
