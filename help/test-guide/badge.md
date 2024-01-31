@@ -6,6 +6,8 @@ badge3: label="Premium" url="https://www.example.com" type="Neutral"
 ---
 # Combining sprockets and widgets
 
+Matt
+
 In order to fancify a gizmo, you can combine the power of sprockets with the functionality of widgets.
 
 ## Badge with URL that opens in new window
