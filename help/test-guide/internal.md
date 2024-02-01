@@ -10,3 +10,4 @@ This repo includes the following features:
 * Output to dev.corp.adobe.com
 * No publishing
 * Localization testing
+* New line of text
