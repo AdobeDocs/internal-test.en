@@ -11,3 +11,4 @@ This repo includes the following features:
 * No publishing
 * Localization testing
 * New line of text
+* Another line of text
