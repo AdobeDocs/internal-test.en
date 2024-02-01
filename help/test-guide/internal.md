@@ -12,3 +12,4 @@ This repo includes the following features:
 * Localization testing
 * New line of text
 * Another line of text
+* Testing github credentials
