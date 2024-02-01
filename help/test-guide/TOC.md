@@ -15,7 +15,6 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
 + [Code highlighting](code-highlighting.md)
 + [Note types](note-types.md)
 + [Tab test](tabs.md)
-+ [Example tab](example-tab.md)
 + [MD Tabs](mdtabs.md)
 + [Tabs AEP SDK](tabs-aep-sdk.md)
 + [Example Box Text](example-boxtext.md)
