@@ -170,7 +170,7 @@ Note that user guides are not yet stitched together properly in doc sets. We're 
 
 Use Jira to create Experience League issues and link them to the docs migration epic:
 
-[JIRA - Issues with docs migration content](https:www.adobe.com)
+[JIRA - Issues with docs migration content](https://www.adobe.com.adobe.com)
 
 Click the + sign to add an issue to the Docs Migration epic.
 
