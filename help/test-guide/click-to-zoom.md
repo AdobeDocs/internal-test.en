@@ -2,7 +2,7 @@
 description: Connecting to the widget
 title: Connecting to the widget - Test
 ---
-# Connecting to the widget {#connecting-to-the-snowflake-data-warehouse}
+# Connecting to the widget {#connecting-to-the-widget-data-warehouse}
 
 ## Bob zoom in table
 
@@ -78,9 +78,9 @@ This is an image.
 
 See the above right-aligned image.
 
-## Snowflake Access Link {#snowflake-access-link}
+## Widget Access Link {#widget-access-link}
 
-To access your Snowflake data warehouse, you'll need to navigate to the specific URL for your Snowflake account.  You can find this access link by logging into Marketo Measure and following the steps below to navigate to the Data Warehouse information page.
+To access your Widget data warehouse, you'll need to navigate to the specific URL for your Widget account.  You can find this access link by logging into Marketo Measure and following the steps below to navigate to the Data Warehouse information page.
 
 1. ### Image click to zoom
 
