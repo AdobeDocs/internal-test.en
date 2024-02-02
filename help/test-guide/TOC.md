@@ -38,7 +38,8 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
 + [UGP 7381 file 1](ugp-7381-commerce-admin-b2b-install.md)
 + [UGP 7381 file 2](ugp-7381-commerce-merchant-install.md)
 + [UGP 8977 - mtoc -switch](ugp-8977-mtoc-switch.md)
-+ [Zorana test](zorana-test.md)
++ Zorana's test section {#zorana}
+  + [Zorana test](zorana-test.md)
 + Mini TOC Files {#mini-toc}
   + [Levels 0](exl-testing-0.md)
   + [Levels 1](exl-testing-1.md)
