@@ -1,5 +1,5 @@
 ---
-title: Note types
+title: Note types test
 description: All supported note types
 ---
 

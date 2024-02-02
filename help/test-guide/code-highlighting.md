@@ -1,8 +1,8 @@
 ---
-title: Code block highlighting
+title: Code block highlighting test
 description: Testing code blocks with numbering and highlighting
 ---
-# Code blocks
+# Code blocks testing
 
 Testing highlighting within code blocks.
 

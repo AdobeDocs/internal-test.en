@@ -1,6 +1,6 @@
 ---
 description: Connecting to the Snowflake Data Warehouse - Product Documentation
-title: Connecting to the Snowflake Data Warehouse
+title: Connecting to the Snowflake Data Warehouse - Test
 ---
 # Connecting to the Snowflake Data Warehouse {#connecting-to-the-snowflake-data-warehouse}
 
