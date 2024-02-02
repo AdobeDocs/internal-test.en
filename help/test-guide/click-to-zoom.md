@@ -1,8 +1,8 @@
 ---
-description: Connecting to the Snowflake Data Warehouse - Product Documentation
-title: Connecting to the Snowflake Data Warehouse - Test
+description: Connecting to the widget
+title: Connecting to the widget - Test
 ---
-# Connecting to the Snowflake Data Warehouse {#connecting-to-the-snowflake-data-warehouse}
+# Connecting to the widget {#connecting-to-the-snowflake-data-warehouse}
 
 ## Bob zoom in table
 
