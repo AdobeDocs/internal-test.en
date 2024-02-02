@@ -1,7 +1,6 @@
 ---
 title: AEP SDK from Gitbook
 description: Description
-exl-id: 69aa2dce-5759-4cd5-9b32-2cde412cd421
 ---
 # Get the Experience Platform SDK
 

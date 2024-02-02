@@ -1,7 +1,6 @@
 ---
 description: Connecting to the Snowflake Data Warehouse - Product Documentation
 title: Connecting to the Snowflake Data Warehouse
-exl-id: 3462a9fe-e898-4d35-973a-118cd6bf98eb
 ---
 # Connecting to the Snowflake Data Warehouse {#connecting-to-the-snowflake-data-warehouse}
 

@@ -1,7 +1,6 @@
 ---
 title: collapsible
 description: Test of collapsible syntax
-exl-id: 3feebdc6-6ecd-4bc5-b3fe-d53e029cb66e
 ---
 # Collapsible content
 

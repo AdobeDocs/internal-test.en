@@ -3,7 +3,6 @@ title: Experience League testing
 description: Syntax testing experience league
 testing: here
 mini-toc-levels: 3
-exl-id: 1226ba17-f9b3-4d31-9b25-a9e53dc05fd1
 ---
 # Experience League testing
 

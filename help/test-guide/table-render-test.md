@@ -1,7 +1,6 @@
 ---
 title: Deprecated and Removed Features
 description: Release notes specific to deprecated and removed features in [!DNL Adobe Experience Manager] as a [!DNL Cloud Service].
-exl-id: ef082184-4eb7-49c7-8887-03d925e3da6f
 ---
 # Deprecated and Removed Features {#deprecated-and-removed-features}
 
