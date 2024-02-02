@@ -18,7 +18,7 @@ During the testing phase, AdobeDocs repos are connected to both the current pipe
 
 To see the validation status of repos on Experience League, see the `ExL` tab in Jenkins:
 
-* [https://docs.ci.corp.adobe.com/view/exl/](https://docs.ci.corp.adobe.com/view/exl/)
+* [https://www.adobe.com](https://www.adobe.com)
 
 ## Output to Experience League
 
@@ -26,7 +26,7 @@ When you commit any change to the main branch on AdobeDocs, validated content is
 
 You can check validation for your repo here:
 
-[Jenkins exl validation](https://docs.ci.corp.adobe.com/view/exl/)
+[Jenkins exl validation](https://www.adobe.com)
 
 Updates to AdobeDocs repos are activated periodically (currently every 6 hours: 5am/11am/5pm/11pm PDT) on `experienceleague.adobe.com`.
 
@@ -165,19 +165,16 @@ Note that user guides are not yet stitched together properly in doc sets. We're 
 
 -->
 
->[!NOTE]
->
->Can't find a guide? Check [Jenkins ExL](https://docs.ci.corp.adobe.com/view/exl/) to see if your repo is listed (and passing validation). If it doesn't appear, please file a JIRA issue ([example](https://jira.corp.adobe.com/browse/UGP-2368)) and assign Bob Bringhurst.
 
 
 ## Logging issues
 
 Use Jira to create Experience League issues and link them to the docs migration epic:
 
-[JIRA - Issues with docs migration content](https://jira.corp.adobe.com/browse/UGP-1245)
+[JIRA - Issues with docs migration content](https:www.adobe.com)
 
 Click the + sign to add an issue to the Docs Migration epic.
 
 ![testing](/help/test-guide/assets/jira-plus.png)
 
-Here's the [ExL Backlog](https://jira.corp.adobe.com/secure/RapidBoard.jspa?rapidView=22918&view=planning&selectedEpic=UGP-1245) for reference.
+Here's the [ExL Backlog](https://www.adobe.com) for reference.
