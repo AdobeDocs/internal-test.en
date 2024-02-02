@@ -12,8 +12,6 @@ topic-tags: initial-configuration
 [![image](assets/core-services_96.png)](https://www.adobe.com)
 ```
 
-### Bad heading
-
 <pre><code>
 [![image](assets&#x2F;core-services_96.png)](https://www.adobe.com)
 </code></pre>
