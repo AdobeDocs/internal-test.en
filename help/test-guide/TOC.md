@@ -1,6 +1,6 @@
 ---
 user-guide-title: Template title
-solution: Experience Cloud
+solution: General
 badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informative" tooltip="Go to Internal overview"
 ---
 
