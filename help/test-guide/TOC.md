@@ -27,6 +27,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
   + [New file](newfile.md)
   + [Auto Video Transcripts](video-transcript-basic.md)
 + Bug fix testing {#bug-fixes}
+  + [URL with dot test](extra-dot-2.1.md)
   + [UGP 8668 collapse headings](ugp-8668.md)
   + [Workfront render problem](workfront-render-problem.md)
   + [Note test for Keith](note-test.md)
