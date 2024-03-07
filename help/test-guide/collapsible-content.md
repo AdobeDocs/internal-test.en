@@ -1,6 +1,7 @@
 ---
 title: collapsible
 description: Test of collapsible syntax
+exl-id: 74319765-a930-44ef-b88d-a102d3a1d3c0
 ---
 # Collapsible content
 
@@ -151,4 +152,3 @@ And scene.
 This is paragraph text.
 
 +++
- 

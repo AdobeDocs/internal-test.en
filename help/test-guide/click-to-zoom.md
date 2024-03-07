@@ -1,6 +1,7 @@
 ---
 description: Connecting to the widget
 title: Connecting to the widget - Test
+exl-id: 1b87fded-a77c-40fc-ac53-47161b2df0d2
 ---
 # Connecting to the widget {#connecting-to-the-widget-data-warehouse}
 

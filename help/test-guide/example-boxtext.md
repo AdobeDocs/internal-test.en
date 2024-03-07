@@ -1,8 +1,8 @@
 ---
 title: Example section as single tab
 description: This is not an effective description.
+exl-id: 9772ed82-3249-4c1e-9f5e-e3d90ffde02a
 ---
-
 # Example Shade Box options
 
 ## `SHADEBOX` component
@@ -126,4 +126,3 @@ The Adobe Experience Platform SDK is available for Apple iOS (includes iOS, iPad
 
 
 Anim aute ex elit qui duis qui et pariatur cillum nisi Lorem fugiat amet. Aliquip duis ut laborum tempor. Cupidatat velit est dolor fugiat Lorem ipsum velit ex velit mollit. Ut laborum cupidatat mollit eiusmod in sunt reprehenderit quis sunt irure consectetur et ex Lorem. Lorem anim laboris mollit id labore dolore.
-

@@ -1,8 +1,8 @@
 ---
 title: Note types test
 description: All supported note types
+exl-id: a4a4e923-eb90-47e7-93e1-13359352a52f
 ---
-
 # Note types
 
 All supported note types.

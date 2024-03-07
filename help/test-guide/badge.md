@@ -3,6 +3,7 @@ title: badges
 description: This is the article overview.
 badgeWeb: label="Campaign Web" url="https://www.example.com" type="Positive"
 badge3: label="Premium" url="https://www.example.com" type="Neutral"
+exl-id: 2d2c9c46-9338-4ef6-accf-77b8bb918af2
 ---
 # Combining sprockets and widgets
 
@@ -81,4 +82,4 @@ From spectrum docs:
 
 [!BADGE Premium]{type=Informative url="https://www.example.com"}
 
-In 1843, Eli McWilloughby was carrying piping hot metal from his forge. Thinking he was dipping the piece of metal into water in order to quench the steel, he instead dipped the flaming metal into a vat of acid. 
+In 1843, Eli McWilloughby was carrying piping hot metal from his forge. Thinking he was dipping the piece of metal into water in order to quench the steel, he instead dipped the flaming metal into a vat of acid.

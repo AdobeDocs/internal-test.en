@@ -1,6 +1,7 @@
 ---
 description: Connecting to the Widget Data Warehouse - Product Documentation
 title: Connecting to the Widget Data Warehouse
+exl-id: 2ca9e2cf-8248-46e1-9632-a48acd4392d3
 ---
 # Connecting to the Widget Data Warehouse {#connecting-to-the-widget-data-warehouse}
 

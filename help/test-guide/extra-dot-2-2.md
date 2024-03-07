@@ -1,6 +1,7 @@
 ---
 title: Extra dot
 description: Extra dot redirect test
+exl-id: d8d8dcc2-f249-41db-acb9-d8235857ca84
 ---
 # Extra dot
 

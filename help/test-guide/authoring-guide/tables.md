@@ -1,6 +1,7 @@
 ---
 title: Tables
-description: Working with markdown tables and HTML tables. 
+description: Working with markdown tables and HTML tables.
+exl-id: 40e4633d-67c3-4795-b68c-9e045345112a
 ---
 # Tables
 

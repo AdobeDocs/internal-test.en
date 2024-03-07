@@ -1,5 +1,5 @@
 ---
-title: "This is a great title."
+title: This is a great title.
 seo-title: Developing Reports
 description: AEM provides a selection of standard reports based on a reporting framework
 seo-description: AEM provides a selection of standard reports based on a reporting framework
@@ -9,8 +9,8 @@ products: SG_EXPERIENCEMANAGER/6.5/SITES
 topic-tags: extending-aem
 content-type: reference
 discoiquuid: 50fafc64-d462-4386-93af-ce360588d294
+exl-id: 2dc1b68a-10cf-40e7-aafb-5fd30b280402
 ---
-
 # Developing Reports {#developing-reports}
 
 Hi Matt!

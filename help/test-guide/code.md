@@ -5,6 +5,7 @@ description: Campaign Tomcat configuration
 audience: installation
 content-type: reference
 topic-tags: initial-configuration
+exl-id: af189dc1-d5cc-409e-8e60-d936c682adb1
 ---
 # Configure Apache Tomcat {#configuring-tomcat}
 

@@ -1,6 +1,7 @@
 ---
 title: Workfront render problem
 description: Workfront rendering problem
+exl-id: 7927a47f-e6ea-48a9-8d98-97093a2c7c2b
 ---
 # Workfront render problem for Use conditional formatting in Text Mode
 

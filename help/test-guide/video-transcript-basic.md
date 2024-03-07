@@ -2,6 +2,7 @@
 title: Video transcripts
 description: Testing video transcripts
 auto-video-transcripts: true
+exl-id: d2a7ea80-ed70-48a9-a249-e6a1a64d9ea8
 ---
 # Video Transcripts
 

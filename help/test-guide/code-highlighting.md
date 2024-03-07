@@ -1,6 +1,7 @@
 ---
 title: Code block highlighting test
 description: Testing code blocks with numbering and highlighting
+exl-id: 81c06c88-c2ba-4fcf-a95b-7fa3b4aca306
 ---
 # Code blocks testing
 

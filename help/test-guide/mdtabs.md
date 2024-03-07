@@ -1,6 +1,7 @@
 ---
 title: Markdown Tabs
 description: Lovely piece of markdown
+exl-id: 02ac2ab4-ca71-419e-bfb5-d5b7486bf7b7
 ---
 # Tabs in Markdown
 
@@ -75,4 +76,3 @@ print('Hello World\n')
 Fluff
 
 >[!ENDTABS]
-

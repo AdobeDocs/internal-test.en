@@ -1,11 +1,12 @@
 ---
 title: poc zoom images
 description: Testing Zoom images.
-badge: "Alpha"
+badge: Alpha
 badge-type: Informative
 badge-url: https://www.adobe.com
 badge-tooltip: Zoom Image
 badgeWeb: label="Zoom Image" url="https://www.adobe.com" type="Positive"
+exl-id: 424bc8d9-7594-424d-b0b1-0ccb2a11a080
 ---
 # POC zoom images
 
