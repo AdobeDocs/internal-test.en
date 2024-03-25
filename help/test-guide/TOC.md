@@ -35,8 +35,6 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
   + [Beta](beta.md)
   + [Exl-id test blank value bad](exlid-test-blank.md)
   + [Exl-id test removed meta](exlid-test-none.md)
-+ Zorana's test section {#zorana}
-  + [Zorana test](zorana-test.md)
 + Mini TOC Files {#mini-toc}
   + [Levels 0](exl-testing-0.md)
   + [Levels 1](exl-testing-1.md)
