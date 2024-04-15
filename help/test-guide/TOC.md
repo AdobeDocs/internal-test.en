@@ -49,9 +49,9 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
   + [Tables](authoring-guide/tables.md)
 + Temp section {#anchor-id}
   + [AEM Bug](aembug.md)
-  + [Data Workbench Bug](dwbbug.md)
 
 <!--
+  + [Data Workbench Bug](dwbbug.md)
   + [Tabs AEP SDK](tabs-aep-sdk.md)
   + [UGP 6547](ugp-6547.md)
   + [UGP 8130 - SubSolution metadata](ugp-8130-subsolution.md)
