@@ -10,7 +10,7 @@ I'm tired and I just can't go on...
 Let's start with a simple accordion.
 
 > Play an accordian, go to jail.
->   - Starving Musician, Santa Cruz
+>   * Starving Musician, Santa Cruz
 
 +++Click me
 Boo!
