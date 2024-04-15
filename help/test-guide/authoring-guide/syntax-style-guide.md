@@ -885,7 +885,7 @@ Not allowed in any table: iframes, spans of cells, embedded tables.
 
 Not allowed in native Markdown table: nested or complex lists.
 
-See [Tables](tables.md)
+<!--See [Tables](tables.md)-->
 
 **Syntax**
 
