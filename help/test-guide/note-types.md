@@ -5,6 +5,8 @@ exl-id: a4a4e923-eb90-47e7-93e1-13359352a52f
 ---
 # Note types
 
+MATT!
+
 All supported note types.
 
 >[!NOTE]
