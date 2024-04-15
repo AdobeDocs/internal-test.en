@@ -5,7 +5,10 @@ exl-id: a4a4e923-eb90-47e7-93e1-13359352a52f
 ---
 # Note types
 
-MATT! BOB! Black holes happen when God divides by zero.
+MATT! BOB! 
+
+> Black holes happen when God divides by zero.
+>   - Steven Wright
 
 All supported note types.
 
