@@ -8,6 +8,7 @@ contentOwner: Guillaume Carlino
 products: SG_EXPERIENCEMANAGER/6.5/SITES
 topic-tags: extending-aem
 content-type: reference
+exl-id: dce7cef2-210b-44d1-bbce-db42f0120da1
 ---
 # On Developing Reports {#on-developing-reports}
 
