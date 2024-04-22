@@ -8,6 +8,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
 
 + [Overview](toc-overview.md)
 + [Bob test](bob-test.md)
++ [Bob test 2](bob-test-2.md)
 + [Internal](internal.md)
 + Feature testing {#feature-testing}
   + [Testing](2-4-5.md)
@@ -42,17 +43,17 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
   + [Levels 2](exl-testing-2.md)
   + [Levels 3](exl-testing-3.md)
   + [Levels 4](exl-testing-4.md)
-  + [Levels 5](exl-testing-5.md)
 + Authoring Guide Examples {#auth-guide}
   + [Note test](authoring-guide/note-test.md)
   + [Markdown syntax](authoring-guide/syntax-style-guide.md)
+  + [Tables](authoring-guide/tables.md)
   + [Table breaks](authoring-guide/table-breaks.md)
 + Temp section {#anchor-id}
   + [AEM Bug](aembug.md)
   + [AEM Bug, Too!](aembug-too.md)
 
 <!--
-  + [Tables](authoring-guide/tables.md)
+  + [Levels 5](exl-testing-5.md)
   + [Data Workbench Bug](dwbbug.md)
   + [Tabs AEP SDK](tabs-aep-sdk.md)
   + [UGP 6547](ugp-6547.md)
