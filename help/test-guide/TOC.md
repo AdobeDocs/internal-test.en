@@ -49,6 +49,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
   + [Table breaks](authoring-guide/table-breaks.md)
 + Temp section {#anchor-id}
   + [AEM Bug](aembug.md)
+  + [AEM Bug, Too!](aembug-too.md)
 
 <!--
   + [Tables](authoring-guide/tables.md)
