@@ -3,6 +3,8 @@ title: Self Service Excellence Collaborative Documentation Syntax and Formatting
 description: A basic introduction to Markdown styling
 mini-toc-levels: 1
 exl-id: 1ffb1672-18cd-42c2-a02a-0529e759ec6c
+prev-page-title: Connecting to the Widget Data Warehouse
+next-page-title: Table breaks
 ---
 # Markdown Syntax Style Guide
 
