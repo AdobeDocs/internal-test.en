@@ -9,6 +9,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
 + [Overview](toc-overview.md)
 + [Bob test](bob-test.md)
 + [Bob test 2](bob-test-2.md)
++ [Bob test 3](bob-test-3.md)
 + [Internal](internal.md)
 + Feature testing {#feature-testing}
   + [Testing](2-4-5.md)
