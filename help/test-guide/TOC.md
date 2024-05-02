@@ -53,6 +53,11 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
 + Temp section {#anchor-id}
   + [AEM Bug](aembug.md)
   + [AEM Bug, Too!](aembug-too.md)
++ Pagination {#pagination}
+  + [Page One](pagination/page-one.md)
+  + [Page Two](pagination/page-two.md)
+  + [Page Three](pagination/page-three.md)
+  + [Page Four](pagination/page-four.md)
 
 <!--
   + [Levels 5](exl-testing-5.md)
