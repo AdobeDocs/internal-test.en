@@ -11,6 +11,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
 + [Bob test 2](bob-test-2.md)
 + [Bob test 3](bob-test-3.md)
 + [Bob test 4](bob-test-4.md)
++ [Bob test 5](bob-test-5.md)
 + [Internal](internal.md)
 + Feature testing {#feature-testing}
   + [Testing](2-4-5.md)
