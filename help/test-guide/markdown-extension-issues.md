@@ -1,6 +1,7 @@
 ---
 title: Markdown preview issues
 description: Markdown preview issues
+exl-id: 48efa889-2a9b-47c6-bb3e-23972a4abbf4
 ---
 # Markdown preview issues in VSC extension
 
