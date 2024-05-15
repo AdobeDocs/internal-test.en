@@ -1,6 +1,7 @@
 ---
 title: Table columns
 description: Experiment with using a table to create a 3-column layout
+exl-id: 34b9ce05-3ef2-4fa6-bc25-ca2192cec873
 ---
 # Table columns
 
