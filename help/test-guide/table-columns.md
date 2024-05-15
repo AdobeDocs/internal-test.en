@@ -15,11 +15,7 @@ Review the documentation in the links below to quickly get started configuring a
 <table>
   <tbody>
     <tr  style="border: 0;">
-        <td>
-        <p>
-        <strong>Configuration pages</strong>
-        </p>
-        <p>
+        <td><p><strong>Configuration pages</strong></p>
             <ul>
                 <li><a href="https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/functionality/configuration-options">All configuration options explained</a></li>
                 <li><a href="https://example.com">Destination Server configuration</a></li>
@@ -27,10 +23,8 @@ Review the documentation in the links below to quickly get started configuring a
                 <li><a href="https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/functionality/destination-server/message-format">Templatizing and macros</a></li>
                 <li><a href="https://example.com">Testing API</a></li>
             </ul>
-        </p>
         </td>
-        <td><strong>Guides</strong></td>
-        <td>
+        <td><p><strong>Guides</strong></p>
             <ul>
                 <li><a href="https://example.com">Configure a streaming destination</a></li>
                 <li><a href="https://example.com">Configure a file-based destination</a></li>
@@ -38,9 +32,7 @@ Review the documentation in the links below to quickly get started configuring a
                 <li><a href="https://example.com">Set up data transformation through Pebble templates</a></li>
                 <li><a href="https://example.com">Submit destination for publishing</a></li>
             </ul>
-        </td>
-        <td><strong>Other essential information</strong></td>
-        <td>
+        </td><strong>Other essential information</strong>
             <ul>
                 <li><a href="https://example.com">Glossary of Destination SDK terms</a></li>
                 <li><a href="https://example.com">Live configuration examples</a></li>
