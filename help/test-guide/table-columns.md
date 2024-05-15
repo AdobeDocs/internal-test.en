@@ -15,7 +15,7 @@ Review the documentation in the links below to quickly get started configuring a
 <table>
   <tbody>
     <tr  style="border: 0;">
-        <td><strong>Configuration pages</strong></td>
+        <td><p><strong>Configuration pages</strong></p></td>
         <td>
             <ul>
                 <li><a href="https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/functionality/configuration-options">All configuration options explained</a></li>
