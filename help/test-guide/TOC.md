@@ -8,6 +8,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
 
 + [Overview](toc-overview.md)
 + [Markdown extension issues](markdown-extension-issues.md)
++ [Victor table columns](table-columns.md)
 + [Bob test](bob-test.md)
 + [Bob test 2](bob-test-2.md)
 + [Bob test 3](bob-test-3.md)
