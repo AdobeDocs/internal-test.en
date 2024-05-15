@@ -15,8 +15,11 @@ Review the documentation in the links below to quickly get started configuring a
 <table>
   <tbody>
     <tr  style="border: 0;">
-        <td><p><strong>Configuration pages</strong></p></td>
         <td>
+        <p>
+        <strong>Configuration pages</strong>
+        </p>
+        <p>
             <ul>
                 <li><a href="https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/functionality/configuration-options">All configuration options explained</a></li>
                 <li><a href="https://example.com">Destination Server configuration</a></li>
@@ -24,6 +27,7 @@ Review the documentation in the links below to quickly get started configuring a
                 <li><a href="https://experienceleague.adobe.com/en/docs/experience-platform/destinations/destination-sdk/functionality/destination-server/message-format">Templatizing and macros</a></li>
                 <li><a href="https://example.com">Testing API</a></li>
             </ul>
+        </p>
         </td>
         <td><strong>Guides</strong></td>
         <td>
