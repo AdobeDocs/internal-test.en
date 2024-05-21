@@ -13,6 +13,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
 + [Bob test 2](bob-test-2.md)
 + [Bob test 3](bob-test-3.md)
 + [Bob test 4](bob-test-4.md)
++ [Bob test 5](bob-test-5.md)
 + [Internal](internal.md)
 + Feature testing {#feature-testing}
   + [Testing](2-4-5.md)
@@ -40,7 +41,6 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
   + [Note test for Keith](note-test.md)
   + [Beta](beta.md)
   + [Exl-id test blank value bad](exlid-test-blank.md)
-  + [Exl-id test removed meta](exlid-test-none.md)
 + Mini TOC Files {#mini-toc}
   + [Levels 0](exl-testing-0.md)
   + [Levels 1](exl-testing-1.md)
