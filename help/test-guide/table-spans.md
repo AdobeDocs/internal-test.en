@@ -85,9 +85,7 @@ The successful response is a list of objects described by the following table
     <td>mandatory&ast;</td>
   </tr>
   <tr>
-    <td>&ast; these fields are present, but only in some specific business flows</td>
-    <td></td>
-    <td></td>
+    <td colspan="3">&ast; these fields are present, but only in some specific business flows</td>
   </tr>
 </tbody>
 </table>
