@@ -1,6 +1,7 @@
 ---
 title: Virushi table spans
 description: Use HTML tables to create complex table with joined rows and columns
+exl-id: 3114682e-3d7b-4d3a-9463-8da19eb068e0
 ---
 # Virushi table spans
 
