@@ -24,26 +24,25 @@ The successful response is a list of objects described by the following table
     <th></th>
     <th></th>
     <th></th>
-    <th></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td><strong>status</strong></td>
-    <td colspan="4">200</td>
+    <td colspan="3">200</td>
     <td>mandatory</td>
   </tr>
   <tr>
     <td><strong>Content-Type</strong></td>
-    <td colspan="4">application/json</td>
+    <td colspan="3">application/json</td>
     <td>mandatory</td>
   </tr>
   <tr>
-    <td colspan="6"><strong>body</strong></td>
+    <td colspan="5"><strong>body</strong></td>
   </tr>
   <tr>
     <td rowspan="6"><strong>mvpdLogouts</strong><br></td>
-    <td colspan="4">JSON containing a list of elements, each element having the following fields:</td>
+    <td colspan="3">JSON containing a list of elements, each element having the following fields:</td>
     <td rowspan="6">mandatory<br></td>
   </tr>
   <tr>
