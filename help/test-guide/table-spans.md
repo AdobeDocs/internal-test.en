@@ -39,7 +39,7 @@ The successful response is a list of objects described by the following table
     <td>mandatory</td>
   </tr>
   <tr>
-    <td rowspan="6"><strong>body</strong><br></td>
+    <td colspan="6"><strong>body</strong></td>
   </tr>
   <tr>
     <td rowspan="6"><strong>mvpdLogouts</strong><br></td>
