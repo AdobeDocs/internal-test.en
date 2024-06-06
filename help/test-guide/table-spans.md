@@ -7,6 +7,8 @@ exl-id: 3114682e-3d7b-4d3a-9463-8da19eb068e0
 
 We can use column spans and row spans to combine cells. However, we cannot nest tables within tables. We have limited abilities to add or remove borders within tables.
 
+Try this with cell borders.
+
 **Source table wiki**
 
 <https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=tve&title=Logout+API+%7C+SRS+%7C+Services#253894408078fb027eacf84649b17c34958de93ba5>
