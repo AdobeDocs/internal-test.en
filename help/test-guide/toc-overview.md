@@ -10,7 +10,7 @@ Welcome test user guide.
 ![](https://11points.com/wp-content/uploads/2008/08/underconstruction.gif)
 MORE...
 
-Matt
+June 6
 
 <!--
 This is the landing page of the user guide. It should be the first list item in the TOC.md file.

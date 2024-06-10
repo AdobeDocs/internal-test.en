@@ -8,6 +8,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
 
 + [Overview](toc-overview.md)
 + [Markdown extension issues](markdown-extension-issues.md)
++ [Virushi table spans](table-spans.md)
 + [Victor table columns](table-columns.md)
 + [Bob test](bob-test.md)
 + [Bob test 2](bob-test-2.md)
@@ -41,7 +42,6 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
   + [Note test for Keith](note-test.md)
   + [Beta](beta.md)
   + [Exl-id test blank value bad](exlid-test-blank.md)
-  + [Exl-id test removed meta](exlid-test-none.md)
 + Mini TOC Files {#mini-toc}
   + [Levels 0](exl-testing-0.md)
   + [Levels 1](exl-testing-1.md)
