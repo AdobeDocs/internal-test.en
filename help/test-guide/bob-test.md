@@ -85,6 +85,81 @@ Here we go.
 
 4&period; Edit the `component-filters.json` file at the root of the project and add the quote block to the  to allow the block to be added to any section and save the file.
 
+
+## Explore documentation (original)
+
+<table>
+   <tr>
+    <td style="text-align: center;"><img src="assets/admin.svg" style="width: 80px; height: 80px;"><p><b>Administrators</b></p></td>
+    <td colspan="2" style="text-align: center;"><img src="assets/user.svg" style="width: 75px; height: 75px;"><p><b>Users</b></p></td>
+    <td style="text-align: center;"><img src="assets/developer.svg" style="width: 80px; height: 80px;"><p><b>Developers</b></p></td>
+  </tr>
+  <tr>
+    <td>
+    <ul>
+    <li><a href="https://www.adobe.com">Get started with Workfront Administration</a></li>
+    <li><a href="https://www.adobe.com">Get started with Workfront Fusion</li>
+    </ul>
+ </td>
+    <td>
+        <ul>
+        <li><a href="https://www.adobe.com">Get started with Workfront</a></li>
+        <li><a href="https://www.adobe.com">Get started managing Work</a></li>
+        <li><a href="https://www.adobe.com">Get started with Reports and Dashboards</a></li>
+        <li><a href="https://www.adobe.com">Get started with Text Mode</a></li>
+        </ul>
+    </td>
+    <td><ul>
+        <li><a href="https://www.adobe.com">Get started with Agile</a></li>
+        <li><a href="https://www.adobe.com">Get started with Documents</a></li>
+        <li><a href="https://www.adobe.com">Get started with the Workload Balancer</a></li>
+        <li><a href="https://www.adobe.com">Get started with Review and Approval</a></li>
+        </ul></td>
+    <td><ul>
+        <li><a href="https://www.adobe.com">API Basics</a></li>
+        <li><a href="https://www.adobe.com">API Explorer</a></li>
+        <li><a href="https://www.adobe.com">Workfront Integrations</a></li>
+        </ul></td>
+  </tr>
+</table>
+
+## Explore documentation (no image sizing)
+
+<table>
+   <tr>
+    <td style="text-align: center;"><img src="assets/admin.svg"><p><b>Administrators</b></p></td>
+    <td colspan="2" style="text-align: center;"><img src="assets/user.svg"><p><b>Users</b></p></td>
+    <td style="text-align: center;"><img src="assets/developer.svg"><p><b>Developers</b></p></td>
+  </tr>
+  <tr>
+    <td>
+    <ul>
+    <li><a href="https://www.adobe.com">Get started with Workfront Administration</a></li>
+    <li><a href="https://www.adobe.com">Get started with Workfront Fusion</li>
+    </ul>
+ </td>
+    <td>
+        <ul>
+        <li><a href="https://www.adobe.com">Get started with Workfront</a></li>
+        <li><a href="https://www.adobe.com">Get started managing Work</a></li>
+        <li><a href="https://www.adobe.com">Get started with Reports and Dashboards</a></li>
+        <li><a href="https://www.adobe.com">Get started with Text Mode</a></li>
+        </ul>
+    </td>
+    <td><ul>
+        <li><a href="https://www.adobe.com">Get started with Agile</a></li>
+        <li><a href="https://www.adobe.com">Get started with Documents</a></li>
+        <li><a href="https://www.adobe.com">Get started with the Workload Balancer</a></li>
+        <li><a href="https://www.adobe.com">Get started with Review and Approval</a></li>
+        </ul></td>
+    <td><ul>
+        <li><a href="https://www.adobe.com">API Basics</a></li>
+        <li><a href="https://www.adobe.com">API Explorer</a></li>
+        <li><a href="https://www.adobe.com">Workfront Integrations</a></li>
+        </ul></td>
+  </tr>
+</table>
+
 ## Recommended tutorials on this topic
 
 * [Get started managing a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
