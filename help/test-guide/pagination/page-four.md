@@ -2,6 +2,8 @@
 title: Page Four
 description: Testing panination page Four
 prev-page-title: Page Three
+prev-page: /docs/internal-test/test/pagination/page-three.html
+next-page:
 exl-id: 51d12300-6115-4d13-aeca-5adb00f46736
 ---
 # Lorem Ipsum FOUR
