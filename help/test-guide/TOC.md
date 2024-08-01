@@ -17,6 +17,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
 + [Bob test 5](bob-test-5.md)
 + [Internal](internal.md)
 + Feature testing {#feature-testing}
+  + [Downloads testing](downloads.md)
   + [Testing](2-4-5.md)
   + [Code](code.md)
   + [Badges](badge.md)
