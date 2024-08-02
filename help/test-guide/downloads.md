@@ -6,7 +6,7 @@ description: Downloading zip and pdf files
 
 ## Download files
 
-[download-test.zip](/help/test-guide/authoring-guide/assets/download-test.zip)
+[download test zip](/help/test-guide/authoring-guide/assets/download-test.zip)
 
 [commerce-redirects.csv](/help/test-guide/authoring-guide/assets/commerce-kb-redirects.csv)
 
