@@ -3,7 +3,6 @@ cloud: Experience Cloud
 solution: General
 git-repo: https://git.corp.adobe.com/AdobeDocs/internal-test.en
 index: no
-hidefromtoc: yes
 ---
 
 # Metadata for internal use

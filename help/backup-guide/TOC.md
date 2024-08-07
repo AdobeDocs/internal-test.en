@@ -1,6 +1,7 @@
 ---
 user-guide-title: Template title
 solution: Experience Cloud
+hidefromtoc: yes
 ---
 
 # Template title {#backup}
