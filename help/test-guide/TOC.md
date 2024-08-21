@@ -37,6 +37,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
   + [Auto Video Transcripts](video-transcript-basic.md)
 + Bug fix testing {#bug-fixes}
   + [Badges in headings with URL(UGP-8768)](badges-headings.md)
+  + [Zoomable images in tables (UGP-11565)](zoomable-images-tables.md)
   + [Deep links with new tab (UGP-11353)](deep-link-new-tab.md)
   + [URL with dot test (keep)](extra-dot-2.1.md)
   + [URL with dot test (redirect)](extra-dot-2-2.md)
