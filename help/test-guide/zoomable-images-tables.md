@@ -1,6 +1,7 @@
 ---
 title: Zoomable images in tables
 description: Zoomable images in tables not rendering properly
+exl-id: 96de8764-105d-4645-9072-627beb5356f7
 ---
 # Zoomable images in tables
 

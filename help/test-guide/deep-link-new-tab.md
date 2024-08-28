@@ -1,6 +1,7 @@
 ---
 title: Deep links not working when target=blank
 description: Deep links don't work when new tab syntax is used
+exl-id: 455262b7-8805-4603-b7fb-f77044e6aeb8
 ---
 # Deep links UGP-11353
 

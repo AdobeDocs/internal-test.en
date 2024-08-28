@@ -1,6 +1,7 @@
 ---
 title: Badges in headings
 description: Badges in headings with URLs - UGP-8768
+exl-id: ad9c8a6a-2723-4460-9763-1f7946f0676c
 ---
 # Badges in headings
 
