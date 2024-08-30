@@ -35,6 +35,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
   + [Table render test](table-render-test.md)
   + [New file](newfile.md)
   + [Auto Video Transcripts](video-transcript-basic.md)
+  + [UGP-11565](ugp-11565.md)
 + Bug fix testing {#bug-fixes}
   + [Badges in headings with URL(UGP-8768)](badges-headings.md)
   + [Zoomable images in tables (UGP-11565)](zoomable-images-tables.md)
