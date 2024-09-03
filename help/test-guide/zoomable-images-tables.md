@@ -32,3 +32,4 @@ UGP-11565
 ![Image of the Experience Platform user interface highlighting the Edit schedule option in the scheduling step](/help/test-guide/authoring-guide/assets/edit-schedule.png "Edit schedule option in the scheduling step"){width="250" zoomable="yes"}
 
 ![Image of the Experience Platform user interface highlighting the Edit schedule option in the scheduling step](/help/test-guide/authoring-guide/assets/edit-schedule.png){width="250" zoomable="yes"}
+
