@@ -60,6 +60,7 @@ description: Validation issues between steps UGP-11842
 1. This is step 2.
 1. This is step 3.
 
+<!--
 **No blank lines before/after shade box**
 
 1. This is step 1.
@@ -83,3 +84,4 @@ description: Validation issues between steps UGP-11842
 
 1. This is step 2.
 1. This is step 3.
+-->
