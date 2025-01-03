@@ -37,6 +37,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
   + [Auto Video Transcripts](video-transcript-basic.md)
   + [UGP-11565](ugp-11565.md)
 + Bug fix testing {#bug-fixes}
+  + [AEM Live link (UGP-12409)](aem-live-link.md)
   + [Validation for notes between steps (UGP-11842)](validation-notes.md)
   + [Badges in headings with URL (UGP-8768)](badges-headings.md)
   + [Zoomable images in tables (UGP-11565)](zoomable-images-tables.md)
