@@ -1,6 +1,7 @@
 ---
 title: AEM Live link
 description: AEM live link gets converted to experienceleague link, resulting in 404
+exl-id: 91afc504-d0e3-45e0-a682-7f138fcf39d4
 ---
 # AEM Live link
 
