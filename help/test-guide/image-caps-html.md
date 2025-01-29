@@ -19,3 +19,12 @@ Rendered?:
 Rendered?"
 
 ![web page details](assets/web-page-details.PNG){width="500"}
+
+
+**HTML image link (no caps)**
+
+`<img src='assets/android.png' width=500 /><br />`
+
+Rendered?:
+
+<img src='assets/android.png' width=500 /><br />
