@@ -29,3 +29,17 @@ Rendered?"
 Rendered?:
 
 <img src='assets/android.png' width=500 /><br />
+
+
+**HTML image link without width**
+
+`<img src='assets/web-page-details.PNG'/><br />`
+
+Rendered?:
+
+<img src='assets/web-page-details.PNG'/><br />
+
+Double quotes
+
+
+<img src="assets/web-page-details.PNG"/><br />
