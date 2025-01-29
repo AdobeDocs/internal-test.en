@@ -1,6 +1,7 @@
 ---
 title: HTML image link with caps
 description: Possible bug
+exl-id: 2d881feb-218d-4aff-8419-050175ff9b9a
 ---
 # HTML image link with caps
 
