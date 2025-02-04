@@ -7,6 +7,18 @@ exl-id: 9a7d2376-1c2c-4235-8cb2-87a5bc9d891b
 
 This has span only, not div, which renders badly.
 
+## UGP-11127
+
+1. Do this step.
+1. <span class="preview">Click **Swatches** to select a predefined color.</span>
+1. Now do this step.
+
+Another example with div
+
+<div class="preview">1. Place your cursor in the **Assignments** field, and wait for two seconds.
+1. Smart assignments display in the following sections:
+1. **Users and teams**, **Job roles**, or **Rate card job roles**:</div>
+
 ## Highlight in note (span)
 
 >[!NOTE]
