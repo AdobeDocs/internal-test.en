@@ -1,6 +1,7 @@
 ---
 title: Link wrapped in bold
 description: UGP-11630 link in bold have problems
+exl-id: 2008a43a-5bca-4509-a52f-6ffd79c49c1c
 ---
 # Link wrapped in bold
 
