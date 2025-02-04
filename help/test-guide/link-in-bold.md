@@ -17,6 +17,6 @@ Rendered
 
 ## Bonus - Image wrapped in bold
 
-`**Click the Adobe logo ![bluff](assets/adobe-logo-old.png) to activate your subscription**`
+`Not bold ok **Click the Adobe logo ![bluff](assets/adobe-logo-old.png){width=30} to activate your subscription** not bold again`
 
-**Click the Adobe logo ![bluff](assets/adobe-logo-old.png) to activate your subscription**
+Not bold ok **Click the Adobe logo ![bluff](assets/adobe-logo-old.png){width=30} to activate your subscription** not bold again
