@@ -15,8 +15,24 @@ Rendered
 
 1. Navigate to the [**Sites** console](highlight.md).
 
+## Other example
+
+Syntax:
+
+```
+_prefix text ![AdobeAnalytics](assets/package.png) suffix test_
+
+**prefix text ![AdobeAnalytics](assets/package.png) suffix test**
+```
+
+Rendered:
+
+_prefix text ![AdobeAnalytics](assets/package.png) suffix test_
+
+**prefix text ![AdobeAnalytics](assets/package.png) suffix test**
+
 ## Bonus - Image wrapped in bold
 
-`Not bold ok **Click the Adobe logo ![bluff](assets/adobe-logo-old.png){width=30} to activate your subscription** not bold again`
+`Not bold ok **Click the Adobe logo ![bluff](assets/package.png) to activate your subscription** not bold again`
 
-Not bold ok **Click the Adobe logo ![bluff](assets/adobe-logo-old.png){width=30} to activate your subscription** not bold again
+Not bold ok **Click the Adobe logo ![bluff](assets/package.png) to activate your subscription** not bold again
