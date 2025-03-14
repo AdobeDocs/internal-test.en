@@ -13,7 +13,7 @@ Here we go.
 * 🅑 In a Workspace project, from the context menu in a visualization, select **[!UICONTROL Custom date range to this date range]**.
 * 🅒 In a Workspace project, select **[!UICONTROL Components]** from the menu, and select **[!UICONTROL Create date range]**
 * 🅓 In a Workspace project, use the shortcut **[!UICONTROL ctrl+shift+d]** (Windows) or **[!UICONTROL shift+command+d]** (macOS). 
-* 🅔 In a Workspace project, from the Components left panel, select ![Add](/help/assets/icons/Add.svg) at ![Calendar](/help/assets/icons/Calendar.svg) **Date ranges**.
+* 🅔 In a Workspace project, from the Components left panel, select **Add Date ranges**.
 
 ## Create Block Definition and Model {#create-block-model}
 
