@@ -7,6 +7,14 @@ exl-id: 17370c6b-f284-401f-9955-5b28bed4c3fe
 
 Here we go.
 
+## Copied glyphs
+
+* 🅐 In the main interface, select **[!UICONTROL Components]** and select **[!UICONTROL Date range]**. Select **[!UICONTROL Add]** from the [!UICONTROL Date range] manager. 
+* 🅑 In a Workspace project, from the context menu in a visualization, select **[!UICONTROL Custom date range to this date range]**.
+* 🅒 In a Workspace project, select **[!UICONTROL Components]** from the menu, and select **[!UICONTROL Create date range]**
+* 🅓 In a Workspace project, use the shortcut **[!UICONTROL ctrl+shift+d]** (Windows) or **[!UICONTROL shift+command+d]** (macOS). 
+* 🅔 In a Workspace project, from the Components left panel, select ![Add](/help/assets/icons/Add.svg) at ![Calendar](/help/assets/icons/Calendar.svg) **Date ranges**.
+
 ## Create Block Definition and Model {#create-block-model}
 
 1&period; Clone the GitHub project locally that you created in the guide and open it in an editor of your choice.
