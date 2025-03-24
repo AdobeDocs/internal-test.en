@@ -1,6 +1,8 @@
 ---
 title: '[!DNL MTOC Switch] Release Notes'
 description: The latest release information for [!DNL Product Recommendations] from Adobe Commerce.
+solution: Campaign, Campaign v8, Campaign v8 Client Console
+version: Campaign v8, Campaign v8 Client Console
 mini-toc-levels: 0
 ---
 # [!DNL MTOC Switch] Release Notes

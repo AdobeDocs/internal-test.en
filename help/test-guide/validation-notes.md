@@ -1,6 +1,8 @@
 ---
 title: Validation issues between steps
 description: Validation issues between steps UGP-11842
+solution: Campaign, Campaign v8
+version: Campaign v8
 exl-id: 2ff03088-7692-44f4-8aee-017d589420f1
 ---
 # Validation for extra lines between steps
