@@ -1,6 +1,8 @@
 ---
 title: Download testing
 description: Downloading zip and pdf files
+solution: Experience Manager, Experience Manager 6.5
+version: Experience Manager 6.5
 exl-id: 1526b73a-31e7-418c-b778-4fcbf2e4df5d
 ---
 # Download testing

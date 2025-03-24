@@ -1,6 +1,8 @@
 ---
 title: Zoomable images in tables
 description: Zoomable images in tables not rendering properly
+solution: Campaign, Campaign v8, Campaign v8 Client Console
+version: Campaign v8, Campaign v8 Client Console
 exl-id: 96de8764-105d-4645-9072-627beb5356f7
 ---
 # Zoomable images in tables
