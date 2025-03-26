@@ -9,6 +9,13 @@ exl-id: 48efa889-2a9b-47c6-bb3e-23972a4abbf4
 
 When you view this in preview, lines not separated by blank spaces are united into the same line. When rendered, each line remains separate. (I believe this rendering rule has been modified; it's hard to tell, since the guidance has always been to add blank lines between entities.)
 
+## Bob's new heading
+
+>[!TIP]
+>
+>This is bob's tip
+
+
 Syntax:
 
 >[!NOTE]
