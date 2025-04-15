@@ -38,6 +38,7 @@ badgeInternal: label="Internal" url="/help/test-guide/internal.md" type="Informa
   + [Auto Video Transcripts](video-transcript-basic.md)
   + [UGP-11565](ugp-11565.md)
 + Bug fix testing {#bug-fixes}
+  + [Colons in code block UGP-12963](colons-in-code.md)
   + [Link wrapped in bold UGP-11630](link-in-bold.md)
   + [Image rendering bug](image-caps-html.md)
   + [AEM Live link (UGP-12409)](aem-live-link.md)
