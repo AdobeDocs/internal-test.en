@@ -1,6 +1,7 @@
 ---
 title: Colons in code blocks not rendering
 description: UGP-12963 colons in code blocks not rendering
+exl-id: 1da12181-f1a2-45e0-9184-1375f3a23bd2
 ---
 # Colonic issues
 
