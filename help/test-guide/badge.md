@@ -11,6 +11,18 @@ Badge test
 
 In order to fancify a gizmo, you can combine the power of sprockets with the functionality of widgets.
 
+## Gray instead of yellow?
+
+
+
+### Delivery {#delivery}
+
+||Page Editor|Notes|Universal Editor|Notes|
+|---|---|---|---|---|
+|[Classic AEM Delivery](https://www.google.com)|[!BADGE Available]{type=Positive}|Recommended for use with the Core Components|[!BADGE Unavailable]{type=Negative}|Classic AEM pages typically rely on several Page Editor-specific features that are difficult to replicate as-is with the Universal Editor.|
+|[Edge Delivery](https://www.google.com)|[!BADGE Unavailable]{type=Negative}||[!BADGE Available]{type=Positive}||
+|[Headless Delivery](https://www.google.com)|[!BADGE Partially Available]{type=Caution}|Only with [the SPA Editor,](https://www.google.comd) which was [deprecated](/help/implementing/developing/hybrid/spa-editor-deprecation.md) in favor of the Universal Editor|[!BADGE Available]{type=Positive}|The Universal Editor allows developers to bring their own web app without imposing any specific framework requirements or implementation constraints.|
+
 ## Badge with URL that opens in new window
 
 [!BADGE Open in new tab]{type=Negative url="https://www.adobe.com newtab=true" tooltip="Open beta.md"}
