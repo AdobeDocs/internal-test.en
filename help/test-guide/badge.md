@@ -7,7 +7,7 @@ exl-id: 2d2c9c46-9338-4ef6-accf-77b8bb918af2
 ---
 # Combining sprockets and widgets
 
-Matt
+Badge test
 
 In order to fancify a gizmo, you can combine the power of sprockets with the functionality of widgets.
 
