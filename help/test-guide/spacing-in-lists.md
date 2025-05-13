@@ -1,6 +1,7 @@
 ---
 title: Spacing in lists
 description: Tighten spacing in lists. UGP 13107.
+exl-id: 15a92721-b6ac-4c4b-9ba8-fc7fa5bb7c38
 ---
 # Spacing in lists
 
